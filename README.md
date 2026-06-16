@@ -1,4 +1,4 @@
-# Humaniek — Atlas anatomii 3D
+# Humaniek — Atlas anatomii 3D (Work in progress)
 
 Interaktywna przeglądarka modelu anatomicznego 3D zbudowana w **React + Vite**,
 **React Three Fiber** i **Tailwind CSS**. Kliknij dowolną strukturę, aby zobaczyć
@@ -7,7 +7,6 @@ jej nazwę łacińską, polską oraz opis z Wikipedii.
 ## Funkcje
 
 - Widok modelu 3D na całym ekranie (OrbitControls: obrót, zoom, przesuwanie)
-- Model `.glb` skompresowany **Draco** (ładowany przez `DRACOLoader`)
 - Kliknięcie na mesh → identyfikacja po nazwie obiektu i panel boczny z opisem
 - Wyszukiwarka filtrująca struktury i podświetlająca pasujący mesh
 - Responsywny layout (mobile + desktop)
