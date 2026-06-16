@@ -26,14 +26,33 @@ export function findEntryByMeshName(meshName) {
 }
 
 /**
- * Pick the best Wikipedia source: Polish first, then English.
- * Each value is either null or { title, description, extract, url }.
+ * Pick the best description source, in priority order:
+ *   1. wikipedia.pl  (Polish structured entry)
+ *   2. wikipedia.en  (English structured entry)
+ *   3. entry.description  (flat fallback text, often English + trailing URL)
+ * Returns { extract, url, lang } or null.
  */
 export function pickWikipedia(entry) {
-  if (!entry || !entry.wikipedia) return null
-  const { pl, en } = entry.wikipedia
-  if (pl && (pl.extract || pl.description)) return { ...pl, lang: 'pl' }
-  if (en && (en.extract || en.description)) return { ...en, lang: 'en' }
+  if (!entry) return null
+
+  const wiki = entry.wikipedia || {}
+  if (wiki.pl && (wiki.pl.extract || wiki.pl.description)) {
+    return { extract: wiki.pl.extract || wiki.pl.description, url: wiki.pl.url || null, lang: 'pl' }
+  }
+  if (wiki.en && (wiki.en.extract || wiki.en.description)) {
+    return { extract: wiki.en.extract || wiki.en.description, url: wiki.en.url || null, lang: 'en' }
+  }
+
+  // Flat `description` field: pull a trailing URL out of the text if present.
+  const raw = (entry.description || '').trim()
+  if (raw) {
+    const urlMatch = raw.match(/https?:\/\/\S+/i)
+    const url = urlMatch ? urlMatch[0] : null
+    const text = raw.replace(/https?:\/\/\S+/gi, '').replace(/\n{3,}/g, '\n\n').trim()
+    const lang = url && url.includes('pl.wikipedia.org') ? 'pl' : 'en'
+    return { extract: text, url, lang }
+  }
+
   return null
 }
 

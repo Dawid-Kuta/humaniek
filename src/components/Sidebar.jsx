@@ -37,8 +37,8 @@ export default function Sidebar({ entry, onClose }) {
       <div className="thin-scroll flex-1 space-y-6 overflow-y-auto p-5">
         {wiki ? (
           <section>
-            <p className="leading-relaxed text-slate-200">
-              {wiki.extract || wiki.description}
+            <p className="whitespace-pre-line leading-relaxed text-slate-200">
+              {wiki.extract}
             </p>
             {wiki.url && (
               <a
