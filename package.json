@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/humaniek",
+  "homepage": "https://Dawid-Kuta.github.io/humaniek",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
