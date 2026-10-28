@@ -7,4 +7,16 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   base: '/humaniek/',
   plugins: [react(), tailwindcss()],
+  build: {
+    // three.js + React Three Fiber change far less often than the app code,
+    // so keep them in their own long-cached chunk.
+    chunkSizeWarningLimit: 1300,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          three: ['three', 'three-mesh-bvh', '@react-three/fiber', '@react-three/drei'],
+        },
+      },
+    },
+  },
 })

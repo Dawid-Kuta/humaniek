@@ -1,0 +1,2897 @@
+{
+ "2408394561": {
+  "en": "Mylohyoid line (mandible)",
+  "pl": "kresa żuchwowo-gnykowa (żuchwa)",
+  "ctx": "origin | mylohyoid-muscle"
+ },
+ "b73f13f6f8": {
+  "en": "Clavicular head: flexes the humerus\nSternocostal head: horizontal and vertical adduction, extension, and internal rotation of the humerus\nDepression and abduction of the scapula.",
+  "pl": "część obojczykowa: zgina ramię\nczęść mostkowo-żebrowa: przywodzenie poziome i pionowe, prostowanie oraz rotacja wewnętrzna ramienia\nobniżanie i odwodzenie łopatki.",
+  "ctx": "action | abdominal-part-of-pectoralis-major-muscle"
+ },
+ "10cd4b7ae7": {
+  "en": "Abducts little finger",
+  "pl": "odwodzi palec mały",
+  "ctx": "action | abductor-digiti-minimi-of-hand"
+ },
+ "b764108e58": {
+  "en": "Abducts hallux",
+  "pl": "odwodzi paluch",
+  "ctx": "action | abductor-hallucis"
+ },
+ "280d3090a2": {
+  "en": "Abduction of the thumb by acting across the carpometacarpal joint and the metacarpophalangeal joint. It also assists in opposition and extension of the thumb.",
+  "pl": "odwodzi kciuk, działając na staw nadgarstkowo-śródręczny i śródręczno-paliczkowy; wspomaga też przeciwstawianie i prostowanie kciuka.",
+  "ctx": "action | abductor-pollicis-brevis"
+ },
+ "cba2fe30f4": {
+  "en": "Adducts hallux",
+  "pl": "przywodzi paluch",
+  "ctx": "action | adductor-hallucis"
+ },
+ "e85deca3ca": {
+  "en": "Adduction of hip (both portions)\nflexion of hip (adductor portion)\nextension of hip (hamstring portion)",
+  "pl": "przywodzenie w stawie biodrowym (obie części)\nzginanie w stawie biodrowym (część przywodzicielowa)\nprostowanie w stawie biodrowym (część kulszowo-goleniowa)",
+  "ctx": "action | adductor-magnus"
+ },
+ "84fb856797": {
+  "en": "It is partly blended in with the triceps, which it assists in extension of the elbow. It also stabilizes the elbow during pronation and supination and pulls slack out of the elbow joint capsule during extension to prevent impingement.",
+  "pl": "częściowo zlewa się z mięśniem trójgłowym ramienia i wspomaga prostowanie w stawie łokciowym; stabilizuje łokieć podczas nawracania i odwracania oraz napina torebkę stawu łokciowego przy prostowaniu, chroniąc ją przed przyszczepieniem.",
+  "ctx": "action | anconeus-muscle"
+ },
+ "32a821da77": {
+  "en": "Opens the jaw when the masseter and the temporalis are relaxed.",
+  "pl": "opuszcza żuchwę (otwiera usta), gdy mięsień żwacz i mięsień skroniowy są rozluźnione.",
+  "ctx": "action | anterior-belly-of-digastric-muscle"
+ },
+ "264cd25bb2": {
+  "en": "Pulling the suprapatellar bursa during extension of the knee",
+  "pl": "pociąga ku górze kaletkę nadrzepkową podczas prostowania kolana",
+  "ctx": "action | articularis-genus-muscle"
+ },
+ "09abcd9c31": {
+  "en": "Closes the laryngeal inlet",
+  "pl": "zamyka wejście do krtani",
+  "ctx": "action | ary-epiglottic-part-of-oblique-arytenoid-muscle"
+ },
+ "4194d7d0b3": {
+  "en": "Rotation, retraction, elevation, and depression of scapula",
+  "pl": "obracanie, cofanie, unoszenie i obniżanie łopatki",
+  "ctx": "action | ascending-part-of-trapezius-muscle"
+ },
+ "0257427769": {
+  "en": "• Flexes elbow\n• flexes and abducts shoulder\n• supinates radioulnar joint in the forearm",
+  "pl": "• zgina staw łokciowy\n• zgina i odwodzi ramię w stawie ramiennym\n• odwraca przedramię (stawy promieniowo-łokciowe)",
+  "ctx": "action | biceps-brachii-muscle"
+ },
+ "704e3b9cf2": {
+  "en": "Flexes knee joint, laterally rotates knee joint (when knee is flexed), extends hip joint (long head only)",
+  "pl": "zgina staw kolanowy, obraca goleń na zewnątrz (przy zgiętym kolanie), prostuje staw biodrowy (tylko głowa długa)",
+  "ctx": "action | biceps-femoris-muscle"
+ },
+ "9e5fa22377": {
+  "en": "Flexion at elbow joint",
+  "pl": "zginanie w stawie łokciowym",
+  "ctx": "action | brachialis-muscle"
+ },
+ "24d4e5fe85": {
+  "en": "Flexion of elbow, supination and pronation of the radioulnar joint to 90°",
+  "pl": "zginanie w stawie łokciowym; ustawia przedramię w pozycji pośredniej między nawróceniem a odwróceniem (do 90°)",
+  "ctx": "action | brachioradialis-muscle"
+ },
+ "356ecdfdca": {
+  "en": "The buccinator compresses the cheeks against the teeth and is used in acts such as blowing. It is an assistant muscle of mastication (chewing) and in neonates it is used to suckle.",
+  "pl": "dociska policzki do zębów i uczestniczy w dmuchaniu; jest pomocniczym mięśniem żucia, a u noworodków umożliwia ssanie.",
+  "ctx": "action | bucinator"
+ },
+ "fef14592d8": {
+  "en": "Pulls coccyx forward after defecation, closing in the back part of the outlet of the pelvis",
+  "pl": "pociąga kość guziczną ku przodowi po defekacji, zamykając tylną część wyjścia miednicy",
+  "ctx": "action | coccygeus-muscle"
+ },
+ "4ab172bd8c": {
+  "en": "Adducts humerus, flexes the arm at glenohumeral joint",
+  "pl": "przywodzi ramię, zgina ramię w stawie ramiennym",
+  "ctx": "action | coracobrachialis-muscle"
+ },
+ "f6c0b4835b": {
+  "en": "Wrinkles forehead",
+  "pl": "marszczy czoło (zbliża brwi do siebie)",
+  "ctx": "action | corrugator-supercilii"
+ },
+ "6f775ac4b5": {
+  "en": "Tension and elongation of the vocal folds",
+  "pl": "napina i wydłuża fałdy głosowe",
+  "ctx": "action | cricothyroid-muscle"
+ },
+ "7ae41b1979": {
+  "en": "Shoulder abduction, flexion and extension",
+  "pl": "odwodzenie, zginanie i prostowanie w stawie ramiennym",
+  "ctx": "action | deltoid-muscle"
+ },
+ "bf457281ab": {
+  "en": "Depresses angle of mouth",
+  "pl": "obniża kąt ust",
+  "ctx": "action | depressor-anguli-oris"
+ },
+ "3c554d14d2": {
+  "en": "Depresses nasal septum, constricts nostril, moves apex of nose during movement of upper lip (e.g. talking)",
+  "pl": "obniża przegrodę nosa, zwęża nozdrze, porusza wierzchołkiem nosa podczas ruchów wargi górnej (np. przy mówieniu)",
+  "ctx": "action | depressor-septi-nasi"
+ },
+ "ed2705281f": {
+  "en": "assists inspiration, depresses costal cartilages",
+  "pl": "wspomaga wdech, obniża chrząstki żebrowe",
+  "ctx": "action | diaphragm"
+ },
+ "c914e398ec": {
+  "en": "Abduct toes",
+  "pl": "odwodzą palce stopy",
+  "ctx": "action | dorsal-interossei-muscles-of-foot"
+ },
+ "7df4a9aa49": {
+  "en": "Abduct finger",
+  "pl": "odwodzą palce ręki",
+  "ctx": "action | dorsal-interossei-muscles-of-hand"
+ },
+ "4c870065fa": {
+  "en": "Extends the vertebral column",
+  "pl": "prostuje kręgosłup",
+  "ctx": "action | erector-spinae"
+ },
+ "6811c75041": {
+  "en": "Extensor and abductor of the hand at the wrist joint",
+  "pl": "prostuje i odwodzi rękę w stawie promieniowo-nadgarstkowym",
+  "ctx": "action | extensor-carpi-radialis-brevis"
+ },
+ "64e125be1d": {
+  "en": "Extensor at the wrist joint, abducts the hand at the wrist",
+  "pl": "prostuje rękę w stawie promieniowo-nadgarstkowym i odwodzi ją (odchylenie promieniowe)",
+  "ctx": "action | extensor-carpi-radialis-longus"
+ },
+ "2a2240de74": {
+  "en": "Extends and adducts the wrist",
+  "pl": "prostuje i przywodzi rękę w stawie promieniowo-nadgarstkowym",
+  "ctx": "action | extensor-carpi-ulnaris"
+ },
+ "fca7b08d2d": {
+  "en": "Extends the wrist and the little finger at all joints",
+  "pl": "prostuje rękę w stawie promieniowo-nadgarstkowym oraz palec mały we wszystkich stawach",
+  "ctx": "action | extensor-digiti-minimi"
+ },
+ "01103ee040": {
+  "en": "Extends digits 2 through 4",
+  "pl": "prostuje palce II–IV",
+  "ctx": "action | extensor-digitorum-brevis"
+ },
+ "165fcd7d1e": {
+  "en": "Extend hallux",
+  "pl": "prostuje paluch",
+  "ctx": "action | extensor-hallucis-brevis"
+ },
+ "a01dcf7cf3": {
+  "en": "Extends (raises) the big toe and assists in dorsiflexion of the foot at the ankle. Also is a weak evertor/invertor",
+  "pl": "prostuje (unosi) paluch i wspomaga zgięcie grzbietowe stopy w stawie skokowym górnym; słabo nawraca i odwraca stopę",
+  "ctx": "action | extensor-hallucis-longus"
+ },
+ "dc300350e7": {
+  "en": "Extends index finger, wrist",
+  "pl": "prostuje palec wskazujący i rękę w stawie promieniowo-nadgarstkowym",
+  "ctx": "action | extensor-indicis"
+ },
+ "aeb42111f6": {
+  "en": "Extension of thumb at metacarpophalangeal joint",
+  "pl": "prostowanie kciuka w stawie śródręczno-paliczkowym",
+  "ctx": "action | extensor-pollicis-brevis"
+ },
+ "6bb89a4357": {
+  "en": "Extension of the thumb (metacarpophalangeal and interphalangeal)",
+  "pl": "prostowanie kciuka (w stawie śródręczno-paliczkowym i międzypaliczkowym)",
+  "ctx": "action | extensor-pollicis-longus"
+ },
+ "2d551aa4a2": {
+  "en": "Flexion of the torso and contralateral rotation of torso",
+  "pl": "zginanie tułowia i obracanie go w stronę przeciwną",
+  "ctx": "action | external-abdominal-oblique-muscle"
+ },
+ "d70fd402f9": {
+  "en": "Keep the anal canal and orifice closed",
+  "pl": "utrzymuje kanał odbytu i odbyt w stanie zamkniętym",
+  "ctx": "action | external-anal-sphincter"
+ },
+ "9004b9c8ff": {
+  "en": "Inhalation",
+  "pl": "wdech",
+  "ctx": "action | external-intercostal-muscles"
+ },
+ "56f01a30af": {
+  "en": "Plantarflexion, eversion",
+  "pl": "zgięcie podeszwowe i nawracanie stopy",
+  "ctx": "action | fibularis-brevis-muscle"
+ },
+ "7b5ad29ac5": {
+  "en": "Plantarflexion, eversion, support arches",
+  "pl": "zgięcie podeszwowe i nawracanie stopy, podtrzymywanie łuków stopy",
+  "ctx": "action | fibularis-longus-muscle"
+ },
+ "51c1301cd6": {
+  "en": "Flexion and abduction at wrist",
+  "pl": "zginanie i odwodzenie ręki w stawie promieniowo-nadgarstkowym",
+  "ctx": "action | flexor-carpi-radialis"
+ },
+ "c9c01798c0": {
+  "en": "Flexes little finger",
+  "pl": "zgina palec mały",
+  "ctx": "action | flexor-digiti-minimi-of-hand"
+ },
+ "f3e6412303": {
+  "en": "Flexion of the lateral four digits",
+  "pl": "zginanie czterech bocznych palców stopy (II–V)",
+  "ctx": "action | flexor-digitorum-brevis"
+ },
+ "6a2f05ce54": {
+  "en": "Flexion of the four smaller digits",
+  "pl": "zginanie czterech mniejszych palców stopy (II–V)",
+  "ctx": "action | flexor-digitorum-longus"
+ },
+ "40c9f48fe7": {
+  "en": "Flex hand and both interphalangeal joints",
+  "pl": "zgina rękę oraz oba stawy międzypaliczkowe palców II–V",
+  "ctx": "action | flexor-digitorum-profundus"
+ },
+ "34a5b11c9d": {
+  "en": "Flex hallux",
+  "pl": "zgina paluch",
+  "ctx": "action | flexor-hallucis-brevis"
+ },
+ "a15f5e8733": {
+  "en": "Flexes all joints of the big toe, plantar flexion of the ankle joint",
+  "pl": "zgina wszystkie stawy palucha; zgięcie podeszwowe w stawie skokowym górnym",
+  "ctx": "action | flexor-hallucis-longus"
+ },
+ "240b3a3417": {
+  "en": "Raises eyebrows and wrinkles forehead",
+  "pl": "unosi brwi i marszczy czoło",
+  "ctx": "action | frontalis-muscle"
+ },
+ "c1b788a4db": {
+  "en": "Plantar flexes foot, flexes knee",
+  "pl": "zgina podeszwowo stopę, zgina staw kolanowy",
+  "ctx": "action | gastrocnemius-muscle"
+ },
+ "000d650a89": {
+  "en": "Inferior fibers protrude the tongue, middle fibers depress the tongue, and its superior fibers draw the tip back and down",
+  "pl": "włókna dolne wysuwają język, środkowe obniżają go, a górne pociągają koniec języka ku tyłowi i ku dołowi",
+  "ctx": "action | genioglossus-muscle"
+ },
+ "b251c124bb": {
+  "en": "Carry hyoid bone and the tongue upward during deglutition",
+  "pl": "unosi kość gnykową i język podczas połykania",
+  "ctx": "action | geniohyoid-muscle"
+ },
+ "972ac5a711": {
+  "en": "External rotation and extension of the hip joint, supports the extended knee through the iliotibial tract, chief antigravity muscle in sitting and abduction of the hip",
+  "pl": "obraca udo na zewnątrz i prostuje staw biodrowy; przez pasmo biodrowo-piszczelowe stabilizuje wyprostowane kolano; główny mięsień antygrawitacyjny przy wstawaniu z pozycji siedzącej; odwodzi udo",
+  "ctx": "action | gluteus-maximus-muscle"
+ },
+ "4a8ae8ef48": {
+  "en": "Abduction of the hip; preventing adduction of the hip. Medial/internal rotation and flexion of the hip (anterior fibers). Extension and lateral/external rotation of the hip (posterior fibers)",
+  "pl": "odwodzi udo i zapobiega jego przywiedzeniu (stabilizuje miednicę). Włókna przednie: rotacja wewnętrzna i zginanie w stawie biodrowym. Włókna tylne: prostowanie i rotacja zewnętrzna.",
+  "ctx": "action | gluteus-medius-muscle"
+ },
+ "5e3957c27e": {
+  "en": "Works in concert with gluteus medius: abduction of the hip; preventing adduction of the hip. Medial rotation of thigh.",
+  "pl": "współdziała z mięśniem pośladkowym średnim: odwodzi udo i zapobiega jego przywiedzeniu; obraca udo do wewnątrz.",
+  "ctx": "action | gluteus-minimus-muscle"
+ },
+ "b0a5f44d32": {
+  "en": "Flexes, medially rotates, and adducts the hip",
+  "pl": "zgina, obraca do wewnątrz i przywodzi w stawie biodrowym",
+  "ctx": "action | gracilis-muscle"
+ },
+ "58480d4ff9": {
+  "en": "Depresses and retracts the tongue",
+  "pl": "obniża i cofa język",
+  "ctx": "action | hyoglossus-muscle"
+ },
+ "1ec5279c53": {
+  "en": "Flexes and",
+  "pl": "zgina udo w stawie biodrowym (i obraca je na zewnątrz)",
+  "ctx": "action | iliacus-muscle"
+ },
+ "2e9bb7d888": {
+  "en": "Unilaterally: laterally flex the vertebral column to the same side. Bilaterally: Extend the vertebral column.",
+  "pl": "jednostronnie: zgina kręgosłup w bok, w tę samą stronę; obustronnie: prostuje kręgosłup.",
+  "ctx": "action | iliocostalis-lumborum-muscle"
+ },
+ "b3a4201daf": {
+  "en": "Extorsion, elevation, abduction",
+  "pl": "obrót gałki ocznej na zewnątrz (ekstorsja), unoszenie, odwodzenie",
+  "ctx": "action | inferior-oblique-muscle"
+ },
+ "d0493b57d3": {
+  "en": "Depression, adduction, extorsion",
+  "pl": "obniżanie, przywodzenie, obrót gałki ocznej na zewnątrz (ekstorsja)",
+  "ctx": "action | inferior-rectus-muscle"
+ },
+ "02861a6f75": {
+  "en": "External rotation of arm and stabilization of glenohumeral joint",
+  "pl": "obraca ramię na zewnątrz i stabilizuje staw ramienny",
+  "ctx": "action | infraspinatus-muscle"
+ },
+ "6947674239": {
+  "en": "Through adduction of upper ribs to the lower ribs the muscles narrow intercostal slits and diminish thorax volume, therefore the muscles represent expiratory muscles.",
+  "pl": "przyciągając żebra górne do dolnych zwężają przestrzenie międzyżebrowe i zmniejszają objętość klatki piersiowej — są mięśniami wydechowymi.",
+  "ctx": "action | innermost-intercostal-muscles"
+ },
+ "5500e38e4a": {
+  "en": "Bilateral: Compresses abdomen\nUnilateral: Ipsilateral trunk rotation",
+  "pl": "obustronnie: uciska jamę brzuszną\njednostronnie: obraca tułów w tę samą stronę",
+  "ctx": "action | internal-abdominal-oblique-muscle"
+ },
+ "13266b6e1b": {
+  "en": "Hold ribs steady",
+  "pl": "stabilizują żebra",
+  "ctx": "action | internal-intercostal-muscles"
+ },
+ "e6e7164c89": {
+  "en": "Proprioception of vertebral column",
+  "pl": "propriocepcja (czucie ułożenia) kręgosłupa",
+  "ctx": "action | interspinales-thoracis-muscles"
+ },
+ "385604e5d9": {
+  "en": "Adduct and medially rotate the cartilage, pulling the vocal ligaments towards the midline and backwards and so closing off the rima glottidis",
+  "pl": "przywodzi i obraca do wewnątrz chrząstkę nalewkowatą, przyciągając więzadła głosowe do linii pośrodkowej i ku tyłowi, przez co zamyka szparę głośni",
+  "ctx": "action | lateral-crico-arytenoid-muscle"
+ },
+ "90eedb43c5": {
+  "en": "Depresses and protrudes mandible, side to side movement of mandible",
+  "pl": "opuszcza i wysuwa żuchwę, porusza nią na boki",
+  "ctx": "action | lateral-pterygoid-muscle"
+ },
+ "2ee83acac4": {
+  "en": "Abducts the eyeball (makes it move outwards)",
+  "pl": "odwodzi gałkę oczną (kieruje ją na zewnątrz)",
+  "ctx": "action | lateral-rectus-muscle"
+ },
+ "bf3ccdf50b": {
+  "en": "Adducts, extends and internally rotates the arm when the insertion is moved towards the origin. When observing the muscle action of the origin towards the insertion, the lats are a very powerful rotator of the trunk.",
+  "pl": "gdy przyczep końcowy zbliża się do początkowego: przywodzi, prostuje i obraca ramię do wewnątrz; przy ustalonym ramieniu (ruch od przyczepu początkowego ku końcowemu) jest bardzo silnym rotatorem tułowia.",
+  "ctx": "action | latissimus-dorsi-muscle"
+ },
+ "3295c5923e": {
+  "en": "Smile (elevates angle of mouth)",
+  "pl": "uśmiech (unosi kąt ust)",
+  "ctx": "action | levator-anguli-oris"
+ },
+ "3ef31148f8": {
+  "en": "Elevates the upper lip",
+  "pl": "unosi wargę górną",
+  "ctx": "action | levator-labii-superioris"
+ },
+ "e40d63eb37": {
+  "en": "Dilates the nostril; elevates the upper lip and wing of the nose",
+  "pl": "rozszerza nozdrze; unosi wargę górną i skrzydło nosa",
+  "ctx": "action | levator-nasolabialis"
+ },
+ "8a56170a36": {
+  "en": "Elevates scapula and tilts its glenoid cavity inferiorly by downwardly rotating the scapula",
+  "pl": "unosi łopatkę i obraca ją tak, że jej jama stawowa zwraca się ku dołowi",
+  "ctx": "action | levator-scapulae"
+ },
+ "3dd8283f11": {
+  "en": "Assists in elevation of the thoracic rib cage",
+  "pl": "wspomaga unoszenie żeber (klatki piersiowej)",
+  "ctx": "action | levatores-breves-costarum"
+ },
+ "6e3740a84e": {
+  "en": "Flexion of neck at atlanto-occipital joint",
+  "pl": "zginanie głowy w stawie szczytowo-potylicznym",
+  "ctx": "action | longus-capitis-muscle"
+ },
+ "fd75968a0c": {
+  "en": "Flexes the neck and head",
+  "pl": "zgina szyję i głowę",
+  "ctx": "action | longus-colli-muscle"
+ },
+ "72306bc725": {
+  "en": "Flexes metatarsophalangeal joints, extends interphalangeal joints",
+  "pl": "zginają stawy śródstopno-paliczkowe, prostują stawy międzypaliczkowe",
+  "ctx": "action | lumbrical-muscles-of-foot"
+ },
+ "448a1d1bf2": {
+  "en": "Flex metacarpophalangeal joints, extend interphalangeal joints",
+  "pl": "zginają stawy śródręczno-paliczkowe, prostują stawy międzypaliczkowe",
+  "ctx": "action | lumbrical-muscles-of-hand"
+ },
+ "32b49346bd": {
+  "en": "Elevates mandible, closes jaw, helps lateral pterygoids in moving the jaw from side to side",
+  "pl": "unosi żuchwę, zamyka usta, wspomaga mięśnie skrzydłowe boczne w ruchach żuchwy na boki",
+  "ctx": "action | medial-pterygoid-muscle"
+ },
+ "d2e8262767": {
+  "en": "Adducts the eyeball (makes it move inwards)",
+  "pl": "przywodzi gałkę oczną (kieruje ją do wewnątrz)",
+  "ctx": "action | medial-rectus-muscle"
+ },
+ "bdca1fa895": {
+  "en": "Elevates and wrinkles skin of chin, protrudes lower lip",
+  "pl": "unosi i marszczy skórę bródki, wysuwa wargę dolną",
+  "ctx": "action | mentalis-muscle"
+ },
+ "fee318826b": {
+  "en": "Provides proprioceptive feedback and input due to high muscle spindle density; Bilateral backward extension, unilateral ipsilateral side-bending and contralateral rotation.",
+  "pl": "dzięki dużej gęstości wrzecion mięśniowych dostarcza informacji proprioceptywnej; obustronnie prostuje kręgosłup, jednostronnie zgina go w tę samą stronę i obraca w stronę przeciwną.",
+  "ctx": "action | multifidus-colli-muscle"
+ },
+ "1a03d22cef": {
+  "en": "Raises oral cavity floor, elevates hyoid, elevates tongue, depresses mandible",
+  "pl": "unosi dno jamy ustnej, kość gnykową i język; opuszcza żuchwę",
+  "ctx": "action | mylohyoid-muscle"
+ },
+ "a91482c8f8": {
+  "en": "Compresses bridge of nose, depresses tip of nose, elevates corners of nostrils",
+  "pl": "uciska grzbiet nosa, obniża jego wierzchołek, unosi brzegi nozdrzy",
+  "ctx": "action | nasalis-muscle"
+ },
+ "bf5797b50f": {
+  "en": "Rotation of head and neck",
+  "pl": "obracanie głowy i szyi",
+  "ctx": "action | obliquus-inferior-capitis-muscle"
+ },
+ "c6bf201c80": {
+  "en": "Extends head and flex head to the ipsilateral side",
+  "pl": "prostuje głowę i zgina ją w bok, w tę samą stronę",
+  "ctx": "action | obliquus-superior-capitis-muscle"
+ },
+ "15bdf28fef": {
+  "en": "Abduct thigh, laterally rotates thigh",
+  "pl": "odwodzi udo, obraca udo na zewnątrz",
+  "ctx": "action | obturator-externus"
+ },
+ "313dc313c2": {
+  "en": "Abducts and laterally rotates the extended hip and abducts the flexed thigh at the hip, and stabilizes the hip during walking",
+  "pl": "odwodzi i obraca na zewnątrz wyprostowane udo, odwodzi udo zgięte w stawie biodrowym i stabilizuje staw biodrowy podczas chodu",
+  "ctx": "action | obturator-internus"
+ },
+ "93cb25fbaf": {
+  "en": "Moves the scalp back",
+  "pl": "pociąga skórę owłosioną głowy ku tyłowi",
+  "ctx": "action | occipitalis-muscle"
+ },
+ "1379e3c258": {
+  "en": "Depresses the larynx and hyoid bone. Also carries hyoid bone backward and to the side.",
+  "pl": "obniża krtań i kość gnykową; pociąga też kość gnykową ku tyłowi i w bok.",
+  "ctx": "action | omohyoid-muscle"
+ },
+ "ecbc660dc2": {
+  "en": "Draws 5th metacarpal anteriorly and rotates it, bringing little finger (5th digit) into opposition with thumb",
+  "pl": "pociąga V kość śródręcza ku przodowi i obraca ją, przeciwstawiając palec mały kciukowi",
+  "ctx": "action | opponens-digiti-minimi-muscle-of-hand"
+ },
+ "69babff108": {
+  "en": "Flexion of the thumb's metacarpal at the first carpometacarpal joint, which aids in opposition of the thumb",
+  "pl": "zgina I kość śródręcza w stawie nadgarstkowo-śródręcznym kciuka, co umożliwia przeciwstawianie kciuka",
+  "ctx": "action | opponens-pollicis-muscle"
+ },
+ "101ba5abc6": {
+  "en": "Closes eyelids",
+  "pl": "zamyka powieki",
+  "ctx": "action | orbicularis-oculi-muscle"
+ },
+ "9200320a44": {
+  "en": "It is sometimes known as the kissing muscle because it is used to pucker the lips.",
+  "pl": "zamyka szparę ust i ściąga wargi (bywa nazywany „mięśniem pocałunku”).",
+  "ctx": "action | orbicularis-oris-muscle"
+ },
+ "a9f21e0bdc": {
+  "en": "Pulls pharynx and larynx upward",
+  "pl": "pociąga gardło i krtań ku górze",
+  "ctx": "action | palatopharyngeus-muscle"
+ },
+ "5cad1e51ae": {
+  "en": "Wrist flexor",
+  "pl": "zgina rękę w stawie promieniowo-nadgarstkowym",
+  "ctx": "action | palmaris-longus-muscle"
+ },
+ "c8ab9d6140": {
+  "en": "Thigh - flexion, adduction, external rotation",
+  "pl": "udo: zginanie, przywodzenie, rotacja zewnętrzna",
+  "ctx": "action | pectineus-muscle"
+ },
+ "6863c687fe": {
+  "en": "Stabilizes the scapula by drawing it inferiorly and anteriorly against the thoracic wall, raises ribs in inhalation",
+  "pl": "stabilizuje łopatkę, pociągając ją ku dołowi i ku przodowi do ściany klatki piersiowej; przy wdechu unosi żebra",
+  "ctx": "action | pectoralis-minor-muscle"
+ },
+ "8081d92422": {
+  "en": "External rotator of the thigh",
+  "pl": "obraca udo na zewnątrz",
+  "ctx": "action | piriformis-muscle"
+ },
+ "25e386f05e": {
+  "en": "Adduct toes",
+  "pl": "przywodzą palce stopy",
+  "ctx": "action | plantar-interossei-muscles"
+ },
+ "25eb6fa966": {
+  "en": "Plantar flexes foot and flexes knee",
+  "pl": "zgina podeszwowo stopę i zgina staw kolanowy",
+  "ctx": "action | plantaris-muscle"
+ },
+ "7aa24cadeb": {
+  "en": "Draws the corners of the mouth inferiorly and widens it (as in expressions of sadness and fright). Also draws the skin of the neck superiorly when teeth are clenched",
+  "pl": "pociąga kąciki ust ku dołowi i poszerza szparę ust (wyraz smutku i przerażenia); przy zaciśniętych zębach napina i unosi skórę szyi",
+  "ctx": "action | platysma"
+ },
+ "e23de8631d": {
+  "en": "Medially rotates tibia on the femur if the femur is fixed (sitting down) or laterally rotates femur on the tibia if tibia is fixed (standing up), unlocks the knee to allow flexion (bending), helps to prevent the forward dislocation of the femur while crouching",
+  "pl": "przy ustalonej kości udowej (siedzenie) obraca piszczel do wewnątrz, a przy ustalonej piszczeli (stanie) obraca udo na zewnątrz; „odblokowuje” wyprostowane kolano, umożliwiając zgięcie; w przysiadzie zapobiega przemieszczeniu kości udowej ku przodowi",
+  "ctx": "action | popliteus-muscle"
+ },
+ "febe9fa6e5": {
+  "en": "Abducts and laterally rotates arytenoid cartilage, pulling vocal ligaments away from the midline and forward and so opening rima glottidis",
+  "pl": "odwodzi i obraca na zewnątrz chrząstkę nalewkowatą, odsuwając więzadła głosowe od linii pośrodkowej i ku przodowi, przez co otwiera szparę głośni",
+  "ctx": "action | posterior-crico-arytenoid-muscle"
+ },
+ "2cbb280a11": {
+  "en": "Draws down the medial angle of the eyebrow giving expressions of frowning",
+  "pl": "pociąga ku dołowi przyśrodkowy koniec brwi, nadając twarzy wyraz zmarszczenia",
+  "ctx": "action | procerus-muscle"
+ },
+ "2e4843645e": {
+  "en": "Pronates the forearm",
+  "pl": "nawraca przedramię",
+  "ctx": "action | pronator-quadratus"
+ },
+ "98303c01de": {
+  "en": "Pronation of forearm, flexes elbow",
+  "pl": "nawraca przedramię, zgina staw łokciowy",
+  "ctx": "action | pronator-teres"
+ },
+ "40bd33f81d": {
+  "en": "Flexion in the hip joint",
+  "pl": "zginanie w stawie biodrowym",
+  "ctx": "action | psoas-major"
+ },
+ "be75df4ad8": {
+  "en": "Tensing the linea alba",
+  "pl": "napina kresę białą",
+  "ctx": "action | pyramidalis-muscle"
+ },
+ "260818870e": {
+  "en": "Alone (unilateral), lateral flexion of vertebral column; Together (bilateral), depression of thoracic rib cage",
+  "pl": "jednostronnie: zgina kręgosłup w bok; obustronnie: obniża żebra (klatkę piersiową)",
+  "ctx": "action | quadratus-lumborum-muscle"
+ },
+ "e1261d24de": {
+  "en": "Assists flexor digitorum longus in flexion of DIP joints",
+  "pl": "wspomaga mięsień zginacz długi palców w zginaniu stawów międzypaliczkowych dalszych",
+  "ctx": "action | quadratus-plantae-muscle"
+ },
+ "36a290c720": {
+  "en": "Knee extension; hip flexion (rectus femoris only)",
+  "pl": "prostuje staw kolanowy; zgina staw biodrowy (tylko mięsień prosty uda)",
+  "ctx": "action | quadriceps-femoris-muscle"
+ },
+ "eaa25b85c1": {
+  "en": "Flexor of fingers (primarily at proximal interphalangeal joints)",
+  "pl": "zgina palce (głównie w stawach międzypaliczkowych bliższych)",
+  "ctx": "action | radial-head-of-flexor-digitorum-superficialis"
+ },
+ "574b19ef8b": {
+  "en": "Flexion of the lumbar spine",
+  "pl": "zginanie kręgosłupa lędźwiowego",
+  "ctx": "action | rectus-abdominis-muscle"
+ },
+ "6abfa3e0ae": {
+  "en": "Knee extension; hip flexion",
+  "pl": "prostuje staw kolanowy; zgina staw biodrowy",
+  "ctx": "action | rectus-femoris-muscle"
+ },
+ "8f2686aaba": {
+  "en": "Lateral flexion, stabilise atlanto-occipital joint",
+  "pl": "zgina głowę w bok, stabilizuje staw szczytowo-potyliczny",
+  "ctx": "action | rectus-lateralis-capitis-muscle"
+ },
+ "16de9dcda9": {
+  "en": "Ipsilateral rotation of head and extension",
+  "pl": "obraca głowę w tę samą stronę i prostuje ją",
+  "ctx": "action | rectus-posterior-major-capitis-muscle"
+ },
+ "487433c2b1": {
+  "en": "Extends the head at the neck, but is now considered to be more of a sensory organ than a muscle",
+  "pl": "prostuje głowę; obecnie uważany raczej za narząd czucia głębokiego (proprioceptor) niż za mięsień ruchowy",
+  "ctx": "action | rectus-posterior-minor-capitis-muscle"
+ },
+ "7ff57557f2": {
+  "en": "Retracts the scapula and rotates it to depress the glenoid cavity. It also fixes the scapula to the thoracic wall.",
+  "pl": "cofa łopatkę i obraca ją tak, że jej jama stawowa obniża się; przytwierdza łopatkę do ściany klatki piersiowej.",
+  "ctx": "action | rhomboid-major-muscle"
+ },
+ "17e8009cc7": {
+  "en": "Retracts and rotates scapula, fixes scapula to thoracic wall",
+  "pl": "cofa i obraca łopatkę, przytwierdza ją do ściany klatki piersiowej",
+  "ctx": "action | rhomboid-minor-muscle"
+ },
+ "cccdccb372": {
+  "en": "Draws back angle of mouth",
+  "pl": "pociąga kąt ust bocznie (ku tyłowi)",
+  "ctx": "action | risorius-muscle"
+ },
+ "f256b6d6be": {
+  "en": "Flexion, abduction, and lateral rotation of the hip, flexion of the knee",
+  "pl": "zginanie, odwodzenie i rotacja zewnętrzna w stawie biodrowym; zginanie stawu kolanowego",
+  "ctx": "action | sartorius-muscle"
+ },
+ "b9bce69df6": {
+  "en": "Elevation of first and second ribs",
+  "pl": "unosi żebro I i II",
+  "ctx": "action | scalenus-anterior-muscle"
+ },
+ "7a6a48f90c": {
+  "en": "Protracts and stabilizes scapula, assists in upward rotation, assists in inspiration (when shoulder girdle is fixed)",
+  "pl": "wysuwa łopatkę ku przodowi i stabilizuje ją, wspomaga jej obrót ku górze; przy ustalonej obręczy barkowej wspomaga wdech",
+  "ctx": "action | serratus-anterior-muscle"
+ },
+ "62f1867e55": {
+  "en": "Depress the lower ribs 9-12, aiding in expiration",
+  "pl": "obniża dolne żebra IX–XII, wspomagając wydech",
+  "ctx": "action | serratus-posterior-inferior-muscle"
+ },
+ "980dd7e0db": {
+  "en": "Elevates ribs 2-5",
+  "pl": "unosi żebra II–V",
+  "ctx": "action | serratus-posterior-superior-muscle"
+ },
+ "0a04f6c34e": {
+  "en": "Laterally: Flex the head and neck to the same side. Bilaterally: Extend the vertebral column.",
+  "pl": "jednostronnie: zgina głowę i szyję w tę samą stronę; obustronnie: prostuje kręgosłup.",
+  "ctx": "action | spinalis-capitis-muscle"
+ },
+ "5fbefb289d": {
+  "en": "Extend, rotate, and laterally flex the head",
+  "pl": "prostuje, obraca i zgina w bok głowę",
+  "ctx": "action | splenius-capitis-muscle"
+ },
+ "02213c4f8a": {
+  "en": "Bilaterally: Extend the head and neck, Unilaterally: Lateral flexion to the same side, Rotation to the same side.",
+  "pl": "obustronnie: prostuje głowę i szyję; jednostronnie: zgina w bok i obraca w tę samą stronę.",
+  "ctx": "action | splenius-colli-muscle"
+ },
+ "7889f7303c": {
+  "en": "Unilaterally: contralateral cervical rotation, ipsilateral cervical flexion\nBilaterally: cervical flexion, elevation of sternum and assists in forced inhalation.",
+  "pl": "jednostronnie: obraca głowę w stronę przeciwną i zgina szyję w tę samą stronę\nobustronnie: zgina szyję, unosi mostek i wspomaga wymuszony wdech.",
+  "ctx": "action | sternocleidomastoid-muscle"
+ },
+ "c182df0487": {
+  "en": "Depresses hyoid",
+  "pl": "obniża kość gnykową",
+  "ctx": "action | sternohyoid-muscle"
+ },
+ "c6af0b03c9": {
+  "en": "Depresses thyroid cartilage",
+  "pl": "obniża chrząstkę tarczowatą",
+  "ctx": "action | sternothyroid-muscle"
+ },
+ "c2d9d9548d": {
+  "en": "Elevate the hyoid during swallowing",
+  "pl": "unosi kość gnykową podczas połykania",
+  "ctx": "action | stylohyoid-muscle"
+ },
+ "7500e1fe9f": {
+  "en": "Elevates the larynx, elevates the pharynx, dilates the pharynx; facilitates swallowing",
+  "pl": "unosi krtań i gardło, rozszerza gardło; ułatwia połykanie",
+  "ctx": "action | stylopharyngeus-muscle"
+ },
+ "7b25b8f7be": {
+  "en": "Internally rotates and adducts humerus; stabilizes shoulder",
+  "pl": "obraca ramię do wewnątrz i przywodzi je; stabilizuje staw ramienny",
+  "ctx": "action | subscapularis-muscle"
+ },
+ "82f219562a": {
+  "en": "Flexes the thumb at the first metacarpophalangeal joint",
+  "pl": "zgina kciuk w stawie śródręczno-paliczkowym",
+  "ctx": "action | superficial-head-of-flexor-pollicis-brevis"
+ },
+ "5d3dc484d2": {
+  "en": "Elevation (as in closing of the mouth) and protrusion of mandible",
+  "pl": "unosi żuchwę (zamyka usta) i wysuwa ją",
+  "ctx": "action | superficial-part-of-masseter"
+ },
+ "607858ed59": {
+  "en": "Primary action is intorsion (medial rotation); secondary actions are to abduct and depress the eyeball (i.e. it makes the eye move outward and downward)",
+  "pl": "przede wszystkim obraca gałkę oczną do wewnątrz (intorsja); dodatkowo odwodzi ją i obniża (kieruje spojrzenie na zewnątrz i w dół)",
+  "ctx": "action | superior-oblique-muscle"
+ },
+ "3a298dafdc": {
+  "en": "Swallowing",
+  "pl": "połykanie",
+  "ctx": "action | superior-pharyngeal-constrictor"
+ },
+ "ab7ece984f": {
+  "en": "Elevation, adduction, intorsion",
+  "pl": "unoszenie, przywodzenie, obrót gałki ocznej do wewnątrz (intorsja)",
+  "ctx": "action | superior-rectus-muscle"
+ },
+ "235e8bf5ce": {
+  "en": "Supinates forearm",
+  "pl": "odwraca przedramię",
+  "ctx": "action | supinator"
+ },
+ "2c9c34da2b": {
+  "en": "Abduction of arm and stabilizes humerus",
+  "pl": "odwodzi ramię i stabilizuje głowę kości ramiennej",
+  "ctx": "action | supraspinatus-muscle"
+ },
+ "93cb74dd8c": {
+  "en": "Supports the viscera in pelvic cavity",
+  "pl": "podtrzymuje narządy jamy miednicy",
+  "ctx": "action | tendinous-arch-of-levator-ani"
+ },
+ "4b998019ec": {
+  "en": "Hip - flexion, medial rotation, abduction, knee - lateral rotation, torso - stabilization",
+  "pl": "staw biodrowy: zginanie, rotacja wewnętrzna, odwodzenie; staw kolanowy: rotacja zewnętrzna; stabilizacja tułowia",
+  "ctx": "action | tensor-fasciae-latae"
+ },
+ "a694643e40": {
+  "en": "Adduct the humerus, internal rotation (medial rotation) of the humerus, extend the humerus from flexed position",
+  "pl": "przywodzi ramię, obraca je do wewnątrz i prostuje z pozycji zgięcia",
+  "ctx": "action | teres-major-muscle"
+ },
+ "8ec4df71d2": {
+  "en": "Laterally rotates the arm, stabilizes humerus",
+  "pl": "obraca ramię na zewnątrz, stabilizuje głowę kości ramiennej",
+  "ctx": "action | teres-minor-muscle"
+ },
+ "ede7ec9136": {
+  "en": "Helps to reduce tension on the vocal folds during speech to decrease pitch",
+  "pl": "zmniejsza napięcie fałdów głosowych podczas mówienia, obniżając wysokość głosu",
+  "ctx": "action | thyro-arytenoid-muscle"
+ },
+ "6ade966243": {
+  "en": "Elevates thyroid and depresses the hyoid bone",
+  "pl": "unosi chrząstkę tarczowatą (krtań) i obniża kość gnykową",
+  "ctx": "action | thyrohyoid-muscle"
+ },
+ "712d893ddf": {
+  "en": "Inversion of the foot and plantar flexion of the foot at the ankle",
+  "pl": "odwracanie stopy i zgięcie podeszwowe w stawie skokowym górnym",
+  "ctx": "action | tibialis-posterior-muscle"
+ },
+ "8d1fd37078": {
+  "en": "Adducts the thumb at the carpometacarpal joint",
+  "pl": "przywodzi kciuk w stawie nadgarstkowo-śródręcznym",
+  "ctx": "action | transverse-head-of-adductor-pollicis"
+ },
+ "c8f5d6065f": {
+  "en": "Compresses abdominal contents (bilateral), rotates trunk ipsilaterally (unilateral)",
+  "pl": "obustronnie uciska narządy jamy brzusznej, jednostronnie obraca tułów w tę samą stronę",
+  "ctx": "action | transversus-abdominis-muscle"
+ },
+ "474e799a7a": {
+  "en": "Depresses ribs",
+  "pl": "obniża żebra",
+  "ctx": "action | transversus-thoracis-muscle"
+ },
+ "c508441900": {
+  "en": "Extends forearm, long head extends, adducts arm, extends shoulder",
+  "pl": "prostuje przedramię w stawie łokciowym; głowa długa dodatkowo prostuje i przywodzi ramię w stawie ramiennym",
+  "ctx": "action | triceps-brachii-muscle"
+ },
+ "3986d66c14": {
+  "en": "Plantarflexion",
+  "pl": "zgięcie podeszwowe stopy",
+  "ctx": "action | triceps-surae-muscle"
+ },
+ "28524b8710": {
+  "en": "Extends and stabilizes knee",
+  "pl": "prostuje i stabilizuje staw kolanowy",
+  "ctx": "action | vastus-lateralis-muscle"
+ },
+ "ae18c7333e": {
+  "en": "Extends knee",
+  "pl": "prostuje staw kolanowy",
+  "ctx": "action | vastus-medialis-muscle"
+ },
+ "d0a753e18b": {
+  "en": "Draws the angle of the mouth upward laterally",
+  "pl": "pociąga kąt ust ku górze i bocznie",
+  "ctx": "action | zygomaticus-major-muscle"
+ },
+ "c29a3ec798": {
+  "en": "Elevates upper lip",
+  "pl": "unosi wargę górną",
+  "ctx": "action | zygomaticus-minor-muscle"
+ },
+ "a3bddf5fb6": {
+  "en": "Palmar interossei",
+  "pl": "mięśnie międzykostne dłoniowe",
+  "ctx": "antagonist | dorsal-interossei-muscles-of-hand"
+ },
+ "eb8167ad91": {
+  "en": "Adductors",
+  "pl": "mięśnie przywodziciele uda",
+  "ctx": "antagonist | gluteus-medius-muscle"
+ },
+ "8c637b2257": {
+  "en": "Lateral rotator group",
+  "pl": "mięśnie obracające udo na zewnątrz",
+  "ctx": "antagonist | gluteus-minimus-muscle"
+ },
+ "dfc0e06bb2": {
+  "en": "Palpebral part of orbicularis oculi muscle",
+  "pl": "część powiekowa mięśnia okrężnego oka",
+  "ctx": "antagonist | levator-palpebrae-superioris"
+ },
+ "9cfd625023": {
+  "en": "Dorsal interossei",
+  "pl": "mięśnie międzykostne grzbietowe",
+  "ctx": "antagonist | palmar-interossei-muscles"
+ },
+ "98d02439ce": {
+  "en": "Dorsal interossei of the foot",
+  "pl": "mięśnie międzykostne grzbietowe stopy",
+  "ctx": "antagonist | plantar-interossei-muscles"
+ },
+ "b72a91bcb2": {
+  "en": "Hamstring",
+  "pl": "mięśnie kulszowo-goleniowe",
+  "ctx": "antagonist | rectus-femoris-muscle"
+ },
+ "232704a728": {
+  "en": "Fibularis brevis and longus, antagonist to the inversion",
+  "pl": "mięsień strzałkowy krótki i długi (antagoniści odwracania stopy)",
+  "ctx": "antagonist | tibialis-posterior-muscle"
+ },
+ "a4fb50b6be": {
+  "en": "Anterior belly - Submental branch of facial artery; posterior belly - occipital artery",
+  "pl": "brzusiec przedni: tętnica podbródkowa (gałąź tętnicy twarzowej); brzusiec tylny: tętnica potyliczna",
+  "ctx": "artery | anterior-belly-of-digastric-muscle"
+ },
+ "86120a9c0b": {
+  "en": "Laryngeal branch of superior thyroid artery",
+  "pl": "gałąź krtaniowa tętnicy tarczowej górnej",
+  "ctx": "artery | ary-epiglottic-part-of-oblique-arytenoid-muscle"
+ },
+ "a84f5fcc5d": {
+  "en": "Superficial branch of transverse cervical artery or superficial cervical artery",
+  "pl": "gałąź powierzchowna tętnicy poprzecznej szyi lub tętnica szyjna powierzchowna",
+  "ctx": "artery | ascending-part-of-trapezius-muscle"
+ },
+ "27807a1d89": {
+  "en": "Deep femoral artery, perforating arteries; long head of biceps femoris: perforating branches from profunda femoris artery",
+  "pl": "tętnica głęboka uda, tętnice przeszywające; głowa długa mięśnia dwugłowego uda: gałęzie przeszywające tętnicy głębokiej uda",
+  "ctx": "artery | biceps-femoris-muscle"
+ },
+ "923412663a": {
+  "en": "Thoracoacromial artery, anterior and posterior humeral circumflex artery",
+  "pl": "tętnica piersiowo-barkowa, tętnice okalające ramię przednia i tylna",
+  "ctx": "artery | deltoid-muscle"
+ },
+ "8301a10863": {
+  "en": "Dorsal and palmar metacarpal artery",
+  "pl": "tętnice śródręcza grzbietowe i dłoniowe",
+  "ctx": "artery | dorsal-interossei-muscles-of-hand"
+ },
+ "71f023c2ee": {
+  "en": "Lateral sacral artery",
+  "pl": "tętnica krzyżowa boczna",
+  "ctx": "artery | erector-spinae"
+ },
+ "4c1e92db8e": {
+  "en": "Fibular (peroneal) artery",
+  "pl": "tętnica strzałkowa",
+  "ctx": "artery | fibularis-longus-muscle"
+ },
+ "24ed865ac5": {
+  "en": "Medial and lateral plantar arteries and plantar arch, plantar metatarsal and plantar digital arteries",
+  "pl": "tętnice podeszwowe przyśrodkowa i boczna, łuk podeszwowy, tętnice śródstopia podeszwowe i tętnice palcowe podeszwowe",
+  "ctx": "artery | flexor-digitorum-brevis"
+ },
+ "95c973aff5": {
+  "en": "(Muscular branch of peroneal artery (peroneal branch of the posterior tibial artery)",
+  "pl": "gałąź mięśniowa tętnicy strzałkowej (odgałęzienia tętnicy piszczelowej tylnej)",
+  "ctx": "artery | flexor-hallucis-longus"
+ },
+ "5f20ab5808": {
+  "en": "Supraorbital and supratrochlear arteries",
+  "pl": "tętnica nadoczodołowa i tętnica nadbloczkowa",
+  "ctx": "artery | frontalis-muscle"
+ },
+ "2a39f8c4bf": {
+  "en": "Branches of the lingual artery.",
+  "pl": "gałęzie tętnicy językowej",
+  "ctx": "artery | geniohyoid-muscle"
+ },
+ "db84b653e3": {
+  "en": "Superior and inferior gluteal arteries",
+  "pl": "tętnice pośladkowe górna i dolna",
+  "ctx": "artery | gluteus-maximus-muscle"
+ },
+ "10604f3639": {
+  "en": "Medial femoral circumflex artery, iliac branch of iliolumbar artery",
+  "pl": "tętnica okalająca udo przyśrodkowa, gałąź biodrowa tętnicy biodrowo-lędźwiowej",
+  "ctx": "artery | iliacus-muscle"
+ },
+ "5c8f9f9055": {
+  "en": "Intercostal and lumbar arteries",
+  "pl": "tętnice międzyżebrowe i lędźwiowe",
+  "ctx": "artery | iliocostalis-lumborum-muscle"
+ },
+ "a8572009fa": {
+  "en": "Medial femoral circumflex artery and iliolumbar artery",
+  "pl": "tętnica okalająca udo przyśrodkowa i tętnica biodrowo-lędźwiowa",
+  "ctx": "artery | iliopsoas-muscle"
+ },
+ "be34be8e49": {
+  "en": "Inferior muscular branch of the ophthalmic artery, infraorbital artery",
+  "pl": "dolna gałąź mięśniowa tętnicy ocznej, tętnica podoczodołowa",
+  "ctx": "artery | inferior-rectus-muscle"
+ },
+ "9ec12d3405": {
+  "en": "Suprascapular and circumflex scapular arteries",
+  "pl": "tętnica nadłopatkowa i tętnica okalająca łopatkę",
+  "ctx": "artery | infraspinatus-muscle"
+ },
+ "f0947cc1d3": {
+  "en": "Intercostal arteries",
+  "pl": "tętnice międzyżebrowe",
+  "ctx": "artery | innermost-intercostal-muscles"
+ },
+ "c4dda94f4f": {
+  "en": "Thoracodorsal branch of the subscapular artery",
+  "pl": "tętnica piersiowo-grzbietowa (gałąź tętnicy podłopatkowej)",
+  "ctx": "artery | latissimus-dorsi-muscle"
+ },
+ "e4c2aebae3": {
+  "en": "Muscular branches of ophthalmic artery and supraorbital artery",
+  "pl": "gałęzie mięśniowe tętnicy ocznej i tętnica nadoczodołowa",
+  "ctx": "artery | levator-palpebrae-superioris"
+ },
+ "943f55adf8": {
+  "en": "Medial and lateral plantar arteries",
+  "pl": "tętnice podeszwowe przyśrodkowa i boczna",
+  "ctx": "artery | lumbrical-muscles-of-foot"
+ },
+ "fbbd2d4c40": {
+  "en": "Superficial palmar arch, common palmar digital arteries, deep palmar arch, dorsal digital artery",
+  "pl": "łuk dłoniowy powierzchowny, tętnice palcowe dłoniowe wspólne, łuk dłoniowy głęboki, tętnice palcowe grzbietowe",
+  "ctx": "artery | lumbrical-muscles-of-hand"
+ },
+ "9734a29ef0": {
+  "en": "Pterygoid branches of maxillary artery",
+  "pl": "gałęzie skrzydłowe tętnicy szczękowej",
+  "ctx": "artery | medial-pterygoid-muscle"
+ },
+ "3c2fcaec21": {
+  "en": "Branches from the inferior thyroid artery (ITA)",
+  "pl": "gałęzie tętnicy tarczowej dolnej",
+  "ctx": "artery | omohyoid-muscle"
+ },
+ "1b8ea48df0": {
+  "en": "Ophthalmic, zygomatico-orbital, angular",
+  "pl": "tętnica oczna, tętnica jarzmowo-oczodołowa, tętnica kątowa",
+  "ctx": "artery | orbicularis-oculi-muscle"
+ },
+ "3e2d736a3e": {
+  "en": "Palmar metacarpal artery of deep palmar arch",
+  "pl": "tętnice śródręcza dłoniowe z łuku dłoniowego głębokiego",
+  "ctx": "artery | palmar-interossei-muscles"
+ },
+ "6a5a8fc382": {
+  "en": "Inferior gluteal, lateral sacral and superior gluteal artery,",
+  "pl": "tętnice pośladkowe dolna i górna, tętnica krzyżowa boczna",
+  "ctx": "artery | piriformis-muscle"
+ },
+ "39d85b809d": {
+  "en": "Plantar artery, and dorsal metatarsal A",
+  "pl": "tętnice podeszwowe i tętnice śródstopia grzbietowe",
+  "ctx": "artery | plantar-interossei-muscles"
+ },
+ "8159889b5d": {
+  "en": "Branches of the submental artery and suprascapular artery",
+  "pl": "gałęzie tętnicy podbródkowej i tętnicy nadłopatkowej",
+  "ctx": "artery | platysma"
+ },
+ "77b794c3e8": {
+  "en": "Inferior and superior epigastric arteries",
+  "pl": "tętnice nabrzuszne dolna i górna",
+  "ctx": "artery | pyramidalis-muscle"
+ },
+ "e3dceb5ffb": {
+  "en": "Descending branch of the lateral femoral circumflex artery",
+  "pl": "gałąź zstępująca tętnicy okalającej udo bocznej",
+  "ctx": "artery | rectus-femoris-muscle"
+ },
+ "2bbcba4d86": {
+  "en": "Deep branch of transverse cervical artery",
+  "pl": "gałąź głęboka tętnicy poprzecznej szyi",
+  "ctx": "artery | rhomboid-minor-muscle"
+ },
+ "314ec59a22": {
+  "en": "Ascending cervical artery\n(branch of Inferior thyroid artery)",
+  "pl": "tętnica szyjna wstępująca\n(gałąź tętnicy tarczowej dolnej)",
+  "ctx": "artery | scalenus-anterior-muscle"
+ },
+ "1b1fe50ecc": {
+  "en": "Profunda femoris and gluteal arteries",
+  "pl": "tętnica głęboka uda i tętnice pośladkowe",
+  "ctx": "artery | semimembranosus-muscle"
+ },
+ "84f817ec16": {
+  "en": "Inferior gluteal artery, perforating arteries",
+  "pl": "tętnica pośladkowa dolna, tętnice przeszywające",
+  "ctx": "artery | semitendinosus-muscle"
+ },
+ "43cc9b0d72": {
+  "en": "Lateral thoracic artery, superior thoracic artery (upper part), thoracodorsal artery (lower part)",
+  "pl": "tętnica piersiowa boczna, tętnica piersiowa najwyższa (część górna), tętnica piersiowo-grzbietowa (część dolna)",
+  "ctx": "artery | serratus-anterior-muscle"
+ },
+ "602c75565c": {
+  "en": "Supra-orbital, anterior ethmoidal",
+  "pl": "tętnica nadoczodołowa, tętnica sitowa przednia",
+  "ctx": "artery | sinus-of-frontal-bone"
+ },
+ "12594895ef": {
+  "en": "Muscular branches of the aorta",
+  "pl": "gałęzie mięśniowe aorty",
+  "ctx": "artery | splenius-capitis-muscle"
+ },
+ "49ba3b1b0c": {
+  "en": "Thoracoacromial trunk, clavicular branch",
+  "pl": "gałąź obojczykowa tętnicy piersiowo-barkowej",
+  "ctx": "artery | subclavius-muscle"
+ },
+ "ff830cbaff": {
+  "en": "Lateral muscular branch of the ophthalmic artery",
+  "pl": "boczna gałąź mięśniowa tętnicy ocznej",
+  "ctx": "artery | superior-oblique-muscle"
+ },
+ "7e31738c60": {
+  "en": "Deep temporal arteries",
+  "pl": "tętnice skroniowe głębokie",
+  "ctx": "artery | temporalis-muscle"
+ },
+ "14271d4ca2": {
+  "en": "Primarily lateral circumflex femoral artery, superior gluteal artery",
+  "pl": "głównie tętnica okalająca udo boczna, a także tętnica pośladkowa górna",
+  "ctx": "artery | tensor-fasciae-latae"
+ },
+ "f49d4bd2ae": {
+  "en": "Subscapular and circumflex scapular arteries",
+  "pl": "tętnica podłopatkowa i tętnica okalająca łopatkę",
+  "ctx": "artery | teres-major-muscle"
+ },
+ "5f7caf9362": {
+  "en": "Deep brachial artery, posterior circumflex humeral artery (long head only)",
+  "pl": "tętnica głęboka ramienia, tętnica okalająca ramię tylna (tylko głowa długa)",
+  "ctx": "artery | triceps-brachii-muscle"
+ },
+ "df22e04099": {
+  "en": "Calcaneocuboid, cuboideonavicular and cuneocuboid articulation",
+  "pl": "staw piętowo-sześcienny, sześcienno-łódkowy i klinowo-sześcienny",
+  "ctx": "articulations | cuboid-bone"
+ },
+ "7c360295ec": {
+  "en": "Hip: acetabulum of pelvis superiorly\nknee: with the tibia and patella inferiorly",
+  "pl": "staw biodrowy: od góry z panewką kości miednicznej\nstaw kolanowy: od dołu z kością piszczelową i rzepką",
+  "ctx": "articulations | femur"
+ },
+ "19c5331ac4": {
+  "en": "Carpometacarpal, intermetacarpal, metacarpophalangeal",
+  "pl": "stawy nadgarstkowo-śródręczne, międzyśródręczne, śródręczno-paliczkowe",
+  "ctx": "articulations | first-metacarpal-bone"
+ },
+ "8c0534506e": {
+  "en": "Proximal phalange and medial cuneiform",
+  "pl": "paliczek bliższy palucha i kość klinowata przyśrodkowa",
+  "ctx": "articulations | first-metatarsal-bone"
+ },
+ "02bdf86087": {
+  "en": "Twelve bones: the sphenoid, the ethmoid, the two parietals, the two nasals, the two maxillae, the two lacrimals, and the two zygomatics",
+  "pl": "z dwunastoma kośćmi: klinową, sitową, obiema ciemieniowymi, obiema nosowymi, obiema szczękami, obiema łzowymi i obiema jarzmowymi",
+  "ctx": "articulations | frontal-bone"
+ },
+ "663eda1f60": {
+  "en": "Articulates with five bones:\nthe lunate proximally\nthe fourth and fifth metacarpals distally\nthe triquetrum medially\nthe capitate laterally",
+  "pl": "łączy się z pięcioma kośćmi:\nz kością księżycowatą (od strony bliższej)\nz IV i V kością śródręcza (od strony dalszej)\nz kością trójgraniastą (przyśrodkowo)\nz kością główkowatą (bocznie)",
+  "ctx": "articulations | hamate-bone"
+ },
+ "b660d112a6": {
+  "en": "Incudomalleolar and incudostapedial joint",
+  "pl": "staw kowadełkowo-młoteczkowy i kowadełkowo-strzemiączkowy",
+  "ctx": "articulations | incus"
+ },
+ "d0317b2b5b": {
+  "en": "Radius proximally\ncapitate and hamate distally\nscaphoid laterally\ntriquetrum medially\ntriangular fibrocartilage",
+  "pl": "z kością promieniową (od strony bliższej)\nz kością główkowatą i haczykowatą (od strony dalszej)\nz kością łódeczkowatą (bocznie)\nz kością trójgraniastą (przyśrodkowo)\nz chrząstką trójkątną (krążkiem stawowym)",
+  "ctx": "articulations | lunate-bone"
+ },
+ "7fa1261e15": {
+  "en": "The two parietals, the two temporals, the sphenoid, and the atlas",
+  "pl": "z obiema kośćmi ciemieniowymi, obiema skroniowymi, kością klinową i kręgiem szczytowym",
+  "ctx": "articulations | occipital-bone"
+ },
+ "70a3cf7ef1": {
+  "en": "Five bones: the opposite parietal, the occipital, the frontal, the temporal, and the sphenoid",
+  "pl": "z pięcioma kośćmi: przeciwległą ciemieniową, potyliczną, czołową, skroniową i klinową",
+  "ctx": "articulations | parietal-bone"
+ },
+ "52fa408d78": {
+  "en": "Articulates with five bones\nradius proximally\ntrapezoid bone and trapezium bone distally\ncapitate and lunate medially",
+  "pl": "łączy się z pięcioma kośćmi:\nz kością promieniową (od strony bliższej)\nz kością czworoboczną mniejszą i większą (od strony dalszej)\nz kością główkowatą i księżycowatą (przyśrodkowo)",
+  "ctx": "articulations | scaphoid-bone"
+ },
+ "d4a5734ed2": {
+  "en": "Proximal phalanges, medial cuneiform, intermediate cuneiform, lateral cuneiform and the cuboid bone.",
+  "pl": "z paliczkiem bliższym, kością klinowatą przyśrodkową, pośrednią i boczną oraz z kością sześcienną.",
+  "ctx": "articulations | second-metatarsal-bone"
+ },
+ "03ff54ba2f": {
+  "en": "Knee, ankle, superior and\ninferior tibiofibular joint",
+  "pl": "staw kolanowy, staw skokowy górny, staw piszczelowo-strzałkowy i więzozrost piszczelowo-strzałkowy",
+  "ctx": "articulations | tibia"
+ },
+ "b610e42abb": {
+  "en": "1st metacarpal distally\nscaphoid proximally\ntrapezoid medially\n2nd metacarpal medially",
+  "pl": "z I kością śródręcza (od strony dalszej)\nz kością łódeczkowatą (od strony bliższej)\nz kością czworoboczną mniejszą (przyśrodkowo)\nz II kością śródręcza (przyśrodkowo)",
+  "ctx": "articulations | trapezium-bone"
+ },
+ "15dad54979": {
+  "en": "Articulates with four bones:\nscaphoid proximally\nsecond metacarpal distally\ntrapezium bone laterally\ncapitate medially",
+  "pl": "łączy się z czterema kośćmi:\nz kością łódeczkowatą (od strony bliższej)\nz II kością śródręcza (od strony dalszej)\nz kością czworoboczną większą (bocznie)\nz kością główkowatą (przyśrodkowo)",
+  "ctx": "articulations | trapezoid-bone"
+ },
+ "03dfd0bf9c": {
+  "en": "Articulates with three bones:\nlunate laterally\npisiform in front\nhamate distally\ntriangular articular disk which separates it from the lower end of the ulna.",
+  "pl": "łączy się z trzema kośćmi:\nz kością księżycowatą (bocznie)\nz kością grochowatą (z przodu)\nz kością haczykowatą (od strony dalszej)\noraz z krążkiem stawowym trójkątnym, który oddziela ją od dolnego końca kości łokciowej.",
+  "ctx": "articulations | triquetrum-bone"
+ },
+ "f676b25de0": {
+  "en": "Genioglossus, hyoglossus, styloglossus, intrinsic muscles of the tongue",
+  "pl": "mięsień bródkowo-językowy, gnykowo-językowy i rylcowo-językowy oraz mięśnie własne języka",
+  "ctx": "innervates | hypoglossal-nerve-xii"
+ },
+ "507906c2a1": {
+  "en": "Lateral lip of the bicipital groove of the humerus\n(anteromedial proximal humerus)",
+  "pl": "grzebień guzka większego kości ramiennej (boczna warga bruzdy międzyguzkowej)\n(przednio-przyśrodkowa część bliższego końca kości ramiennej)",
+  "ctx": "insertion | abdominal-part-of-pectoralis-major-muscle"
+ },
+ "76c379807b": {
+  "en": "Base of the proximal phalanx of the 5th digit on the ulnar or medial side",
+  "pl": "podstawa paliczka bliższego palca V, po stronie łokciowej (przyśrodkowej)",
+  "ctx": "insertion | abductor-digiti-minimi-of-hand"
+ },
+ "f26a45119e": {
+  "en": "Medial aspect of base of 1st phalanx of hallux",
+  "pl": "przyśrodkowa strona podstawy paliczka bliższego palucha",
+  "ctx": "insertion | abductor-hallucis"
+ },
+ "e4b3e70cd0": {
+  "en": "Base of the proximal phalanx of thumb",
+  "pl": "podstawa paliczka bliższego kciuka",
+  "ctx": "insertion | abductor-pollicis-brevis"
+ },
+ "a4519e600d": {
+  "en": "Base of 1st metacarpal",
+  "pl": "podstawa I kości śródręcza",
+  "ctx": "insertion | abductor-pollicis-longus"
+ },
+ "d1407f4eb8": {
+  "en": "Lateral side of base of first phalanx of the 1st toe; sesamoid apparatus",
+  "pl": "boczna strona podstawy paliczka bliższego palucha; kości trzeszczkowe",
+  "ctx": "insertion | adductor-hallucis"
+ },
+ "c8560b28c9": {
+  "en": "Middle third of linea aspera",
+  "pl": "środkowa jedna trzecia kresy chropawej kości udowej",
+  "ctx": "insertion | adductor-longus"
+ },
+ "52ff0f87f6": {
+  "en": "Lateral surface of the olecranon process of the ulna and the superior proximal part of the posterior ulna",
+  "pl": "boczna powierzchnia wyrostka łokciowego i górna część tylnej powierzchni kości łokciowej",
+  "ctx": "insertion | anconeus-muscle"
+ },
+ "0807ce1ae2": {
+  "en": "Intermediate tendon (hyoid bone)",
+  "pl": "ścięgno pośrednie (kość gnykowa)",
+  "ctx": "insertion | anterior-belly-of-digastric-muscle"
+ },
+ "1eaebc19ce": {
+  "en": "Posterior border of the lateral one-third of the clavicle, acromion process, and spine of scapula",
+  "pl": "tylny brzeg bocznej jednej trzeciej obojczyka, wyrostek barkowy i grzebień łopatki",
+  "ctx": "insertion | ascending-part-of-trapezius-muscle"
+ },
+ "0e5a3117d9": {
+  "en": "Radial tuberosity and bicipital aponeurosis into deep fascia on medial part of forearm",
+  "pl": "guzowatość kości promieniowej oraz – przez rozcięgno mięśnia dwugłowego – powięź przyśrodkowej części przedramienia",
+  "ctx": "insertion | biceps-brachii-muscle"
+ },
+ "c8259b2e06": {
+  "en": "The head of the fibula which articulates with the back of the lateral tibial condyle",
+  "pl": "głowa kości strzałkowej (łącząca się z tylną częścią kłykcia bocznego piszczeli)",
+  "ctx": "insertion | biceps-femoris-muscle"
+ },
+ "145861e6c4": {
+  "en": "Coronoid process and the tuberosity of the ulna",
+  "pl": "wyrostek dziobiasty i guzowatość kości łokciowej",
+  "ctx": "insertion | brachialis-muscle"
+ },
+ "7c266b8105": {
+  "en": "Distal radius (radial styloid process)",
+  "pl": "dalszy koniec kości promieniowej (wyrostek rylcowaty)",
+  "ctx": "insertion | brachioradialis-muscle"
+ },
+ "d5a1e1e81b": {
+  "en": "In the fibers of the orbicularis oris",
+  "pl": "we włóknach mięśnia okrężnego ust",
+  "ctx": "insertion | bucinator"
+ },
+ "8ef140612f": {
+  "en": "Lateral margin of coccyx and related border of sacrum",
+  "pl": "boczny brzeg kości guzicznej i przyległy brzeg kości krzyżowej",
+  "ctx": "insertion | coccygeus-muscle"
+ },
+ "3d3f82be0c": {
+  "en": "Anteromedial surface of humerus distal to crest of lesser tubercle",
+  "pl": "przednio-przyśrodkowa powierzchnia trzonu kości ramiennej, poniżej grzebienia guzka mniejszego",
+  "ctx": "insertion | coracobrachialis-muscle"
+ },
+ "80d257191d": {
+  "en": "Forehead skin, near eyebrow",
+  "pl": "skóra czoła w okolicy brwi",
+  "ctx": "insertion | corrugator-supercilii"
+ },
+ "1dff2510a6": {
+  "en": "Inferior cornu and lamina of the thyroid cartilage",
+  "pl": "róg dolny i blaszka chrząstki tarczowatej",
+  "ctx": "insertion | cricothyroid-muscle"
+ },
+ "5f5372d4d3": {
+  "en": "Integument of the lower lip, orbicularis oris fibers, its fellow of the opposite side",
+  "pl": "skóra wargi dolnej, włókna mięśnia okrężnego ust i mięsień strony przeciwnej",
+  "ctx": "insertion | depressor-labii-inferioris"
+ },
+ "447e9b7280": {
+  "en": "Nasal septum and back part of the alar part of nasalis muscle",
+  "pl": "przegroda nosa i tylna część części skrzydłowej mięśnia nosowego",
+  "ctx": "insertion | depressor-septi-nasi"
+ },
+ "e6fa6de886": {
+  "en": "Proximal phalanges and extensor expansions",
+  "pl": "paliczki bliższe i rozcięgna grzbietowe palców",
+  "ctx": "insertion | dorsal-interossei-muscles-of-hand"
+ },
+ "dd8ba2d6ff": {
+  "en": "Spinous processes of T1 and T2 thoracic vertebrae and the cervical vertebrae",
+  "pl": "wyrostki kolczyste kręgów piersiowych Th1–Th2 i kręgów szyjnych",
+  "ctx": "insertion | erector-spinae"
+ },
+ "7c3df7e130": {
+  "en": "Posterior base of the 3rd metacarpal",
+  "pl": "grzbietowa strona podstawy III kości śródręcza",
+  "ctx": "insertion | extensor-carpi-radialis-brevis"
+ },
+ "132c02d3cb": {
+  "en": "2nd metacarpal",
+  "pl": "II kość śródręcza (podstawa)",
+  "ctx": "insertion | extensor-carpi-radialis-longus"
+ },
+ "e986dc65fd": {
+  "en": "5th metacarpal",
+  "pl": "V kość śródręcza (podstawa)",
+  "ctx": "insertion | extensor-carpi-ulnaris"
+ },
+ "60e5303601": {
+  "en": "At the extensor expansion, located at the base of the middle and distal phalanx of digit V on the dorsal side",
+  "pl": "rozcięgno grzbietowe palca V, na grzbietowej stronie podstaw paliczka środkowego i dalszego",
+  "ctx": "insertion | extensor-digiti-minimi"
+ },
+ "da3105398e": {
+  "en": "Extensor expansion of middle and distal phalanges of the 2nd, 3rd, 4th, and 5th fingers",
+  "pl": "rozcięgna grzbietowe paliczków środkowych i dalszych palców II–V",
+  "ctx": "insertion | extensor-digitorum"
+ },
+ "f14758b9ba": {
+  "en": "Proximal dorsal region of middle phalanges 2, 3 and 4",
+  "pl": "grzbietowa strona podstaw paliczków środkowych palców II–IV",
+  "ctx": "insertion | extensor-digitorum-brevis"
+ },
+ "a1770defe5": {
+  "en": "Dorsal surface; middle and distal phalanges of lateral four digits",
+  "pl": "grzbietowa powierzchnia paliczków środkowych i dalszych palców II–V",
+  "ctx": "insertion | extensor-digitorum-longus"
+ },
+ "b9aaf8e9b6": {
+  "en": "Proximal phalanx of digit 1 (hallux, or the great toe)",
+  "pl": "paliczek bliższy palucha",
+  "ctx": "insertion | extensor-hallucis-brevis"
+ },
+ "768b430aff": {
+  "en": "Inserts on the dorsal side of the base of the distal phalanx of the big toe",
+  "pl": "grzbietowa strona podstawy paliczka dalszego palucha",
+  "ctx": "insertion | extensor-hallucis-longus"
+ },
+ "b62027326e": {
+  "en": "Index finger (extensor hood)",
+  "pl": "palec wskazujący (rozcięgno grzbietowe)",
+  "ctx": "insertion | extensor-indicis"
+ },
+ "e6f2834e98": {
+  "en": "Thumb, distal phalanx",
+  "pl": "paliczek dalszy kciuka",
+  "ctx": "insertion | extensor-pollicis-longus"
+ },
+ "a18a0078c6": {
+  "en": "Xiphoid process,outer lip of the iliac crest, pubic crest, pubic tubercle, linea alba, inguinal ligament, anterior superior iliac spine (ASIS)",
+  "pl": "wyrostek mieczykowaty, warga zewnętrzna grzebienia biodrowego, grzebień łonowy, guzek łonowy, kresa biała, więzadło pachwinowe, kolec biodrowy przedni górny",
+  "ctx": "insertion | external-abdominal-oblique-muscle"
+ },
+ "409353b772": {
+  "en": "Upper border of rib below",
+  "pl": "górny brzeg żebra leżącego niżej",
+  "ctx": "insertion | external-intercostal-muscles"
+ },
+ "33ff1f314f": {
+  "en": "Dorsal surface of metatarsal 5",
+  "pl": "grzbietowa powierzchnia V kości śródstopia",
+  "ctx": "insertion | fibularis-tertius-muscle"
+ },
+ "37be9c3c1b": {
+  "en": "Bases of second and third metacarpal bones",
+  "pl": "podstawy II i III kości śródręcza",
+  "ctx": "insertion | flexor-carpi-radialis"
+ },
+ "dffc05647a": {
+  "en": "Pisiform, hook of the hamate, base of the fifth metacarpal bone (volar aspect)",
+  "pl": "kość grochowata, haczyk kości haczykowatej, podstawa V kości śródręcza (strona dłoniowa)",
+  "ctx": "insertion | flexor-carpi-ulnaris"
+ },
+ "5d1037a435": {
+  "en": "Palmar side of the base of the proximal phalanx of fifth digit",
+  "pl": "dłoniowa strona podstawy paliczka bliższego palca V",
+  "ctx": "insertion | flexor-digiti-minimi-of-hand"
+ },
+ "75025fcd5e": {
+  "en": "Middle phalanges of toe 2-5",
+  "pl": "paliczki środkowe palców II–V stopy",
+  "ctx": "insertion | flexor-digitorum-brevis"
+ },
+ "5fd6286795": {
+  "en": "Plantar surface; base of the distal phalanges of the four lesser toes",
+  "pl": "podeszwowa strona podstaw paliczków dalszych palców II–V",
+  "ctx": "insertion | flexor-digitorum-longus"
+ },
+ "cc2bcef542": {
+  "en": "Base of the distal phalanges of the fingers",
+  "pl": "podstawy paliczków dalszych palców II–V",
+  "ctx": "insertion | flexor-digitorum-profundus"
+ },
+ "e2dc91120b": {
+  "en": "Medial Head: Medial sesamoid bone of the metatarsophalangeal joint, proximal phalanx of great toe. Lateral head: Lateral sesamoid bone of the metatarsophalangeal joint, proximal phalanx of great toe",
+  "pl": "głowa przyśrodkowa: przyśrodkowa kość trzeszczkowa stawu śródstopno-paliczkowego i paliczek bliższy palucha; głowa boczna: boczna kość trzeszczkowa tego stawu i paliczek bliższy palucha",
+  "ctx": "insertion | flexor-hallucis-brevis"
+ },
+ "fe39bb9778": {
+  "en": "Plantar surface; base of distal phalanx of hallux",
+  "pl": "podeszwowa strona podstawy paliczka dalszego palucha",
+  "ctx": "insertion | flexor-hallucis-longus"
+ },
+ "c8195e5a5e": {
+  "en": "The base of the distal phalanx of the thumb",
+  "pl": "podstawa paliczka dalszego kciuka",
+  "ctx": "insertion | flexor-pollicis-longus"
+ },
+ "669ab58f59": {
+  "en": "Tendo calcaneus (Achilles tendon) into mid-posterior calcaneus",
+  "pl": "przez ścięgno piętowe (Achillesa) do guza kości piętowej",
+  "ctx": "insertion | gastrocnemius-muscle"
+ },
+ "20a46ff62e": {
+  "en": "Underside of tongue and body of hyoid",
+  "pl": "dolna powierzchnia języka i trzon kości gnykowej",
+  "ctx": "insertion | genioglossus-muscle"
+ },
+ "e71fd76b0e": {
+  "en": "Tibia (pes anserinus)",
+  "pl": "kość piszczelowa (gęsia stopka)",
+  "ctx": "insertion | gracilis-muscle"
+ },
+ "5add401ed1": {
+  "en": "Side of the tongue",
+  "pl": "boczna część języka",
+  "ctx": "insertion | hyoglossus-muscle"
+ },
+ "f413c1847b": {
+  "en": "Base of the lesser trochanter of femur",
+  "pl": "podstawa krętarza mniejszego kości udowej",
+  "ctx": "insertion | iliacus-muscle"
+ },
+ "0b834c3b89": {
+  "en": "Lateral condyle of the tibia",
+  "pl": "kłykieć boczny kości piszczelowej",
+  "ctx": "insertion | iliotibial-tract"
+ },
+ "254f3f0181": {
+  "en": "Laterally onto the eyeball, deep to the lateral rectus, by a short flat tendon",
+  "pl": "krótkim płaskim ścięgnem do bocznej części gałki ocznej, pod mięśniem prostym bocznym",
+  "ctx": "insertion | inferior-oblique-muscle"
+ },
+ "be9a81cfcf": {
+  "en": "6.8 mm inferior to the corneal limbus",
+  "pl": "twardówka ok. 6,8 mm poniżej rąbka rogówki",
+  "ctx": "insertion | inferior-rectus-muscle"
+ },
+ "c1458a2273": {
+  "en": "Middle facet of greater tubercle of the humerus",
+  "pl": "środkowa powierzchnia guzka większego kości ramiennej",
+  "ctx": "insertion | infraspinatus-muscle"
+ },
+ "eeeb3b6340": {
+  "en": "Supero-posterior border of the rib (below)",
+  "pl": "górno-tylny brzeg żebra leżącego niżej",
+  "ctx": "insertion | innermost-intercostal-muscles"
+ },
+ "ede2f68adf": {
+  "en": "Linea alba, pectineal line of pubis (via conjoint tendon) and ribs 10-12.",
+  "pl": "kresa biała, grzebień kości łonowej (przez sierp pachwinowy) i żebra X–XII.",
+  "ctx": "insertion | internal-abdominal-oblique-muscle"
+ },
+ "0e1218388f": {
+  "en": "Rib - inferior border",
+  "pl": "dolny brzeg żebra",
+  "ctx": "insertion | internal-intercostal-muscles"
+ },
+ "bd209dbd4c": {
+  "en": "Superior head: anterior side of the mandibular condyle. Inferior head: pterygoid fovea",
+  "pl": "głowa górna: przednia strona wyrostka kłykciowego żuchwy; głowa dolna: dołek skrzydłowy",
+  "ctx": "insertion | lateral-pterygoid-muscle"
+ },
+ "5a3f7cb0aa": {
+  "en": "7 mm temporal to the limbus",
+  "pl": "twardówka ok. 7 mm bocznie (skroniowo) od rąbka rogówki",
+  "ctx": "insertion | lateral-rectus-muscle"
+ },
+ "4f15a2c012": {
+  "en": "Floor of intertubercular groove of the humerus",
+  "pl": "dno bruzdy międzyguzkowej kości ramiennej",
+  "ctx": "insertion | latissimus-dorsi-muscle"
+ },
+ "276d18a750": {
+  "en": "Skin and muscle of the upper lip (labii superioris)",
+  "pl": "skóra i mięśnie wargi górnej",
+  "ctx": "insertion | levator-labii-superioris"
+ },
+ "410e975580": {
+  "en": "Superior tarsal plate and skin of upper eyelid",
+  "pl": "chrząstka stępu górna i skóra powieki górnej",
+  "ctx": "insertion | levator-palpebrae-superioris"
+ },
+ "77a48a1f67": {
+  "en": "Superior part of medial border of scapula",
+  "pl": "górna część brzegu przyśrodkowego łopatki",
+  "ctx": "insertion | levator-scapulae"
+ },
+ "a442c77a98": {
+  "en": "Superior surfaces of the ribs immediately inferior to the preceding vertebrae",
+  "pl": "górne powierzchnie żeber położonych bezpośrednio poniżej kręgów, od których się zaczynają",
+  "ctx": "insertion | levatores-breves-costarum"
+ },
+ "8daf9ed115": {
+  "en": "Basilar part of the occipital bone",
+  "pl": "część podstawna kości potylicznej",
+  "ctx": "insertion | longus-capitis-muscle"
+ },
+ "b605f432af": {
+  "en": "Proximal phalanges and extensor tendons of the 4 lateral toes",
+  "pl": "paliczki bliższe i ścięgna prostowników palców II–V stopy",
+  "ctx": "insertion | lumbrical-muscles-of-foot"
+ },
+ "52982e156c": {
+  "en": "Extensor expansion",
+  "pl": "rozcięgno grzbietowe palca",
+  "ctx": "insertion | lumbrical-muscles-of-hand"
+ },
+ "09109e92c0": {
+  "en": "Medial angle of the mandible",
+  "pl": "przyśrodkowa powierzchnia kąta żuchwy",
+  "ctx": "insertion | medial-pterygoid-muscle"
+ },
+ "300e45e9c2": {
+  "en": "5.5 mm medial to the limbus",
+  "pl": "twardówka ok. 5,5 mm przyśrodkowo od rąbka rogówki",
+  "ctx": "insertion | medial-rectus-muscle"
+ },
+ "d188036f5a": {
+  "en": "Body of hyoid bone and median ridge",
+  "pl": "trzon kości gnykowej i szew pośrodkowy",
+  "ctx": "insertion | mylohyoid-muscle"
+ },
+ "6508e3c139": {
+  "en": "Lateral half of the inferior nuchal line",
+  "pl": "boczna połowa kresy karkowej dolnej",
+  "ctx": "insertion | obliquus-superior-capitis-muscle"
+ },
+ "19cb2c0b3d": {
+  "en": "Medial aspect of the greater trochanter",
+  "pl": "przyśrodkowa powierzchnia krętarza większego",
+  "ctx": "insertion | obturator-internus"
+ },
+ "e68aa172f1": {
+  "en": "Intermediate tendon (inferior belly), hyoid bone (superior belly)",
+  "pl": "ścięgno pośrednie (brzusiec dolny), kość gnykowa (brzusiec górny)",
+  "ctx": "insertion | omohyoid-muscle"
+ },
+ "283104d3fc": {
+  "en": "Medial border of 5th metacarpal (in hand, 3rd digit is orientation of mid-line)",
+  "pl": "przyśrodkowy brzeg V kości śródręcza",
+  "ctx": "insertion | opponens-digiti-minimi-muscle-of-hand"
+ },
+ "007d245444": {
+  "en": "Metacarpal bone of the thumb on its radial side",
+  "pl": "promieniowy brzeg I kości śródręcza",
+  "ctx": "insertion | opponens-pollicis-muscle"
+ },
+ "f0b3073923": {
+  "en": "Lateral palpebral raphe",
+  "pl": "szew powiekowy boczny",
+  "ctx": "insertion | orbicularis-oculi-muscle"
+ },
+ "062092cb79": {
+  "en": "Skin around the lips",
+  "pl": "skóra wokół ust",
+  "ctx": "insertion | orbicularis-oris-muscle"
+ },
+ "b8d30c7b67": {
+  "en": "Upper border of thyroid cartilage (blends with constrictor fibers)",
+  "pl": "górny brzeg chrząstki tarczowatej (łączy się z włóknami zwieraczy gardła)",
+  "ctx": "insertion | palatopharyngeus-muscle"
+ },
+ "64085d1f9c": {
+  "en": "Bases of proximal phalanges, extensor expansions",
+  "pl": "podstawy paliczków bliższych, rozcięgna grzbietowe palców",
+  "ctx": "insertion | palmar-interossei-muscles"
+ },
+ "3910e3c734": {
+  "en": "Pectineal line of the femur",
+  "pl": "kresa grzebieniowa kości udowej",
+  "ctx": "insertion | pectineus-muscle"
+ },
+ "a6a3efd782": {
+  "en": "Medial border and superior surface of the coracoid process of the scapula",
+  "pl": "przyśrodkowy brzeg i górna powierzchnia wyrostka kruczego łopatki",
+  "ctx": "insertion | pectoralis-minor-muscle"
+ },
+ "0a68ad363d": {
+  "en": "Medial side of proximal phalanges of 3rd to 5th toe",
+  "pl": "przyśrodkowa strona paliczków bliższych palców III–V stopy",
+  "ctx": "insertion | plantar-interossei-muscles"
+ },
+ "80937afb13": {
+  "en": "Tendo calcaneus (medial side, deep to gastrocnemius tendon)",
+  "pl": "ścięgno piętowe (po stronie przyśrodkowej, pod ścięgnem mięśnia brzuchatego łydki)",
+  "ctx": "insertion | plantaris-muscle"
+ },
+ "4d2561512c": {
+  "en": "Posterior surface of the tibia proximal to the soleus line",
+  "pl": "tylna powierzchnia kości piszczelowej powyżej kresy mięśnia płaszczkowatego",
+  "ctx": "insertion | popliteus-muscle"
+ },
+ "41de6c1398": {
+  "en": "Posterior surface of muscular process of the arytenoid cartilage",
+  "pl": "tylna powierzchnia wyrostka mięśniowego chrząstki nalewkowatej",
+  "ctx": "insertion | posterior-crico-arytenoid-muscle"
+ },
+ "ad841be632": {
+  "en": "Into the skin of the lower part of the forehead between the eyebrows",
+  "pl": "skóra dolnej części czoła między brwiami",
+  "ctx": "insertion | procerus-muscle"
+ },
+ "1c5e0f520d": {
+  "en": "Lateral, anterior surface of the radius",
+  "pl": "przednia powierzchnia dalszej części kości promieniowej (bocznie)",
+  "ctx": "insertion | pronator-quadratus"
+ },
+ "e1eb99a9ae": {
+  "en": "Middle of the lateral surface of the body of the radius",
+  "pl": "środkowa część bocznej powierzchni trzonu kości promieniowej",
+  "ctx": "insertion | pronator-teres"
+ },
+ "eb42579ff6": {
+  "en": "In the lesser trochanter of the femur",
+  "pl": "krętarz mniejszy kości udowej",
+  "ctx": "insertion | psoas-major"
+ },
+ "ea3b6d0a5f": {
+  "en": "Inferior border of 12th rib and L1-L4",
+  "pl": "dolny brzeg XII żebra i kręgi L1–L4 (wyrostki poprzeczne)",
+  "ctx": "insertion | quadratus-lumborum-muscle"
+ },
+ "6a3e598052": {
+  "en": "Anterior margins on the base of the middle phalanges of the four fingers",
+  "pl": "dłoniowe brzegi podstaw paliczków środkowych palców II–V",
+  "ctx": "insertion | radial-head-of-flexor-digitorum-superficialis"
+ },
+ "27f690c019": {
+  "en": "Costal cartilages of ribs 5-7 xiphoid process of sternum",
+  "pl": "chrząstki żebrowe żeber V–VII i wyrostek mieczykowaty mostka",
+  "ctx": "insertion | rectus-abdominis-muscle"
+ },
+ "5a66e4be3a": {
+  "en": "Inserts into the patellar tendon as one of the four quadriceps muscles",
+  "pl": "ścięgno mięśnia czworogłowego (jako jedna z jego czterech głów), dalej więzadło rzepki",
+  "ctx": "insertion | rectus-femoris-muscle"
+ },
+ "e748692f87": {
+  "en": "Under surface of the jugular process of the occipital bone",
+  "pl": "dolna powierzchnia wyrostka szyjnego kości potylicznej",
+  "ctx": "insertion | rectus-lateralis-capitis-muscle"
+ },
+ "d5d06888a6": {
+  "en": "Medial part of the inferior nuchal line of the occipital bone and the surface between it and the foramen magnum",
+  "pl": "przyśrodkowa część kresy karkowej dolnej kości potylicznej i powierzchnia między nią a otworem wielkim",
+  "ctx": "insertion | rectus-posterior-minor-capitis-muscle"
+ },
+ "baa8aa6510": {
+  "en": "Medial border of the scapula, inferior to the insertion of rhomboid minor muscle",
+  "pl": "brzeg przyśrodkowy łopatki, poniżej przyczepu mięśnia równoległobocznego mniejszego",
+  "ctx": "insertion | rhomboid-major-muscle"
+ },
+ "471c337073": {
+  "en": "Medial border of scapula, superior to the insertion of rhomboid major muscle",
+  "pl": "brzeg przyśrodkowy łopatki, powyżej przyczepu mięśnia równoległobocznego większego",
+  "ctx": "insertion | rhomboid-minor-muscle"
+ },
+ "d350733ab5": {
+  "en": "Junction of transverse process and lamina, spinous process",
+  "pl": "połączenie wyrostka poprzecznego z blaszką łuku, wyrostek kolczysty",
+  "ctx": "insertion | rotatores"
+ },
+ "d792b877e3": {
+  "en": "Anteromedial surface of the proximal tibia in the pes anserinus",
+  "pl": "przednio-przyśrodkowa powierzchnia bliższego końca kości piszczelowej (gęsia stopka)",
+  "ctx": "insertion | sartorius-muscle"
+ },
+ "101b09190f": {
+  "en": "First and second ribs",
+  "pl": "żebro I i II",
+  "ctx": "insertion | scalenus-anterior-muscle"
+ },
+ "21107d93e4": {
+  "en": "Pes anserinus (tibia)",
+  "pl": "gęsia stopka (kość piszczelowa)",
+  "ctx": "insertion | semitendinosus-muscle"
+ },
+ "752c2e0cef": {
+  "en": "Costal aspect of medial margin of the scapula",
+  "pl": "żebrowa (przednia) strona brzegu przyśrodkowego łopatki",
+  "ctx": "insertion | serratus-anterior-muscle"
+ },
+ "a7378a1b9b": {
+  "en": "The inferior borders of the 9th through 12th ribs",
+  "pl": "dolne brzegi żeber IX–XII",
+  "ctx": "insertion | serratus-posterior-inferior-muscle"
+ },
+ "768918c3a7": {
+  "en": "The upper borders of the 2nd through 5th ribs",
+  "pl": "górne brzegi żeber II–V",
+  "ctx": "insertion | serratus-posterior-superior-muscle"
+ },
+ "c0660e536c": {
+  "en": "Thoracis: Spinous process of upper thoracic vertebrae.\nCervicis: Spinous process of cervical vertebrae except atlas.",
+  "pl": "część piersiowa: wyrostki kolczyste górnych kręgów piersiowych.\nczęść szyjna: wyrostki kolczyste kręgów szyjnych (z wyjątkiem kręgu szczytowego).",
+  "ctx": "insertion | spinalis-capitis-muscle"
+ },
+ "5c900b8106": {
+  "en": "Transverse processes of C1-C3",
+  "pl": "wyrostki poprzeczne kręgów C1–C3",
+  "ctx": "insertion | splenius-colli-muscle"
+ },
+ "66956ca0df": {
+  "en": "Subclavian groove of clavicle (inferior surface of middle one third of the clavicle)",
+  "pl": "bruzda mięśnia podobojczykowego (dolna powierzchnia środkowej jednej trzeciej obojczyka)",
+  "ctx": "insertion | subclavius-muscle"
+ },
+ "d49a997067": {
+  "en": "Thumb, proximal phalanx",
+  "pl": "paliczek bliższy kciuka",
+  "ctx": "insertion | superficial-head-of-flexor-pollicis-brevis"
+ },
+ "544e774749": {
+  "en": "Angle surface of ramus of mandible, coronoid process",
+  "pl": "boczna powierzchnia kąta i gałęzi żuchwy, wyrostek dziobiasty",
+  "ctx": "insertion | superficial-part-of-masseter"
+ },
+ "d3a517a307": {
+  "en": "Outer posterior quadrant of the eyeball",
+  "pl": "tylno-boczna ćwiartka gałki ocznej",
+  "ctx": "insertion | superior-oblique-muscle"
+ },
+ "574bd282a5": {
+  "en": "7.9 mm superior to the corneal limbus",
+  "pl": "twardówka ok. 7,9 mm powyżej rąbka rogówki",
+  "ctx": "insertion | superior-rectus-muscle"
+ },
+ "f42ccd60d9": {
+  "en": "Lateral proximal radial shaft",
+  "pl": "boczna powierzchnia bliższej części trzonu kości promieniowej",
+  "ctx": "insertion | supinator"
+ },
+ "92cd6bbd14": {
+  "en": "Superior facet of greater tubercle of humerus",
+  "pl": "górna powierzchnia guzka większego kości ramiennej",
+  "ctx": "insertion | supraspinatus-muscle"
+ },
+ "a853e0722e": {
+  "en": "Coronoid process of the mandible and retromolar fossa",
+  "pl": "wyrostek dziobiasty żuchwy i dół zatrzonowcowy",
+  "ctx": "insertion | temporalis-muscle"
+ },
+ "eae6739959": {
+  "en": "Inner surface of coccyx, levator ani of opposite side, and into structures that penetrate it.",
+  "pl": "wewnętrzna powierzchnia kości guzicznej, mięsień dźwigacz odbytu strony przeciwnej oraz struktury przechodzące przez dno miednicy.",
+  "ctx": "insertion | tendinous-arch-of-levator-ani"
+ },
+ "d05dfd091a": {
+  "en": "Iliotibial tract (via greater trochanter)",
+  "pl": "pasmo biodrowo-piszczelowe (na wysokości krętarza większego)",
+  "ctx": "insertion | tensor-fasciae-latae"
+ },
+ "522b6ac748": {
+  "en": "Medial lip of the intertubercular sulcus of the humerus",
+  "pl": "grzebień guzka mniejszego (przyśrodkowa warga bruzdy międzyguzkowej) kości ramiennej",
+  "ctx": "insertion | teres-major-muscle"
+ },
+ "eba11f43c0": {
+  "en": "Inferior facet of greater tubercle of the humerus",
+  "pl": "dolna powierzchnia guzka większego kości ramiennej",
+  "ctx": "insertion | teres-minor-muscle"
+ },
+ "e42e4a39cb": {
+  "en": "Anterior surface of arytenoid cartilage",
+  "pl": "przednia powierzchnia chrząstki nalewkowatej",
+  "ctx": "insertion | thyro-arytenoid-muscle"
+ },
+ "bff332763e": {
+  "en": "Medial cuneiform and the base of first metatarsal bone of the foot",
+  "pl": "kość klinowata przyśrodkowa i podstawa I kości śródstopia",
+  "ctx": "insertion | tibialis-anterior-muscle"
+ },
+ "580ad76c45": {
+  "en": "Medial side of the base of the proximal phalanx of the thumb and the ulnar sesamoid",
+  "pl": "łokciowa strona podstawy paliczka bliższego kciuka i łokciowa kość trzeszczkowa",
+  "ctx": "insertion | transverse-head-of-adductor-pollicis"
+ },
+ "4fe109327a": {
+  "en": "Xiphoid process, linea alba, pubic crest and pecten pubis via conjoint tendon",
+  "pl": "wyrostek mieczykowaty, kresa biała, guzek i grzebień kości łonowej (przez sierp pachwinowy)",
+  "ctx": "insertion | transversus-abdominis-muscle"
+ },
+ "6a61547e1e": {
+  "en": "Ribs/costal cartilages 2-6",
+  "pl": "żebra / chrząstki żebrowe II–VI",
+  "ctx": "insertion | transversus-thoracis-muscle"
+ },
+ "27bfef02a4": {
+  "en": "Olecranon process of ulna",
+  "pl": "wyrostek łokciowy kości łokciowej",
+  "ctx": "insertion | triceps-brachii-muscle"
+ },
+ "3e2ccb2e3e": {
+  "en": "Patella by the quadriceps tendon and tibial tuberosity by the patellar ligament",
+  "pl": "rzepka (przez ścięgno mięśnia czworogłowego) i guzowatość piszczeli (przez więzadło rzepki)",
+  "ctx": "insertion | vastus-lateralis-muscle"
+ },
+ "95b360f063": {
+  "en": "Quadriceps tendon",
+  "pl": "ścięgno mięśnia czworogłowego uda",
+  "ctx": "insertion | vastus-medialis-muscle"
+ },
+ "acaabf3917": {
+  "en": "Tuberosity of the tibia",
+  "pl": "guzowatość kości piszczelowej",
+  "ctx": "ligTo | patellar-ligament"
+ },
+ "988fd00033": {
+  "en": "Gluteus maximus, gluteus medius, gluteus minimus, iliopsoas, lateral rotator group, adductors of the hip",
+  "pl": "mięsień pośladkowy wielki, średni i mały, mięsień biodrowo-lędźwiowy, mięśnie obracające udo na zewnątrz, przywodziciele uda",
+  "ctx": "muscleInsertions | femur"
+ },
+ "300ea874d0": {
+  "en": "Proximal phalanges",
+  "pl": "paliczki bliższe",
+  "ctx": "muscleInsertions | first-metacarpal-bone"
+ },
+ "e49504ea22": {
+  "en": "Present at the joint of femur and",
+  "pl": "leży w stawie kolanowym, przed kością udową",
+  "ctx": "muscleOrigins | patella"
+ },
+ "e39dc67704": {
+  "en": "Recurrent branch of the median nerve",
+  "pl": "gałąź wsteczna (ruchowa) nerwu pośrodkowego",
+  "ctx": "nerve | abductor-pollicis-brevis"
+ },
+ "269aa3b6af": {
+  "en": "Posterior branch of obturator nerve (adductor) and sciatic nerve (hamstring)",
+  "pl": "gałąź tylna nerwu zasłonowego (część przywodzicielowa) i nerw kulszowy (część kulszowo-goleniowa)",
+  "ctx": "nerve | adductor-magnus"
+ },
+ "48610b7882": {
+  "en": "Radial nerve (C5, C6, C7, C8, and T1)",
+  "pl": "nerw promieniowy (C5, C6, C7, C8 i Th1)",
+  "ctx": "nerve | anconeus-muscle"
+ },
+ "0b81445747": {
+  "en": "Anterior belly - mandibular division (V3) of the trigeminal (CN V) via the mylohyoid nerve; posterior belly - facial nerve (CN VII)",
+  "pl": "brzusiec przedni: nerw żuchwowo-gnykowy od nerwu żuchwowego (V3) nerwu trójdzielnego; brzusiec tylny: nerw twarzowy (VII)",
+  "ctx": "nerve | anterior-belly-of-digastric-muscle"
+ },
+ "c82cdc0ffa": {
+  "en": "Inferior laryngeal nerve (from the vagus nerve)",
+  "pl": "nerw krtaniowy dolny (od nerwu błędnego)",
+  "ctx": "nerve | ary-epiglottic-part-of-oblique-arytenoid-muscle"
+ },
+ "e0125c8277": {
+  "en": "Accessory nerve (motor)\ncervical spinal nerves C3 and C4 (motor and sensation)",
+  "pl": "nerw dodatkowy (włókna ruchowe)\nnerwy rdzeniowe szyjne C3 i C4 (włókna ruchowe i czuciowe)",
+  "ctx": "nerve | ascending-part-of-trapezius-muscle"
+ },
+ "d477dca27e": {
+  "en": "Buccal branch of the facial nerve (VII cranial nerve)",
+  "pl": "gałęzie policzkowe nerwu twarzowego (VII)",
+  "ctx": "nerve | bucinator"
+ },
+ "fbcc2e7e58": {
+  "en": "Pudendal nerve; sacral nerves: S4, S5 or S3-S4",
+  "pl": "nerw sromowy; nerwy krzyżowe S4–S5 (lub S3–S4)",
+  "ctx": "nerve | coccygeus-muscle"
+ },
+ "bcd27fc82a": {
+  "en": "Musculocutaneous nerve (C5, C6, and C7)",
+  "pl": "nerw mięśniowo-skórny (C5, C6 i C7)",
+  "ctx": "nerve | coracobrachialis-muscle"
+ },
+ "f950b78fe5": {
+  "en": "External branch of superior laryngeal nerve (branch of the vagus nerve)",
+  "pl": "gałąź zewnętrzna nerwu krtaniowego górnego (od nerwu błędnego)",
+  "ctx": "nerve | cricothyroid-muscle"
+ },
+ "8184de25ca": {
+  "en": "Marginal mandibular branch of the facial nerve",
+  "pl": "gałąź brzeżna żuchwy nerwu twarzowego",
+  "ctx": "nerve | depressor-anguli-oris"
+ },
+ "ab03c3090a": {
+  "en": "Buccal branch of the facial nerve",
+  "pl": "gałęzie policzkowe nerwu twarzowego",
+  "ctx": "nerve | depressor-septi-nasi"
+ },
+ "017cbf3c8d": {
+  "en": "Phrenic and lower intercostal nerves",
+  "pl": "nerw przeponowy i dolne nerwy międzyżebrowe",
+  "ctx": "nerve | diaphragm"
+ },
+ "290894779b": {
+  "en": "Posterior branch of spinal nerve",
+  "pl": "gałęzie tylne nerwów rdzeniowych",
+  "ctx": "nerve | erector-spinae"
+ },
+ "4661393c14": {
+  "en": "Posterior interosseous nerve",
+  "pl": "nerw międzykostny tylny przedramienia",
+  "ctx": "nerve | extensor-carpi-ulnaris"
+ },
+ "6999f3ac79": {
+  "en": "Posterior interosseous nerve (C7, 8)",
+  "pl": "nerw międzykostny tylny przedramienia (C7, C8)",
+  "ctx": "nerve | extensor-digiti-minimi"
+ },
+ "62a27fc061": {
+  "en": "Posterior interosseous nerve (branching from the radial nerve)",
+  "pl": "nerw międzykostny tylny przedramienia (gałąź nerwu promieniowego)",
+  "ctx": "nerve | extensor-pollicis-longus"
+ },
+ "2f6c3fe93e": {
+  "en": "Thoraco-abdominal nerves (T7-11) and subcostal nerve (T12)",
+  "pl": "nerwy piersiowo-brzuszne (Th7–Th11) i nerw podżebrowy (Th12)",
+  "ctx": "nerve | external-abdominal-oblique-muscle"
+ },
+ "86bdb87d3c": {
+  "en": "Branch from the fourth sacral and contributions f\nrom the inferior hemorrhoidal branch of the pudendal nerve",
+  "pl": "gałąź czwartego nerwu krzyżowego oraz włókna nerwów odbytniczych dolnych (od nerwu sromowego)",
+  "ctx": "nerve | external-anal-sphincter"
+ },
+ "5e23c1d233": {
+  "en": "Muscular branches of ulnar nerve (from C8 and T1)",
+  "pl": "gałęzie mięśniowe nerwu łokciowego (C8, Th1)",
+  "ctx": "nerve | flexor-carpi-ulnaris"
+ },
+ "1824aa69c2": {
+  "en": "Lateral part of the muscle by median (anterior interosseous), medial (ulnar) part of the muscle by muscular branches of ulnar",
+  "pl": "część boczna: nerw pośrodkowy (nerw międzykostny przedni); część przyśrodkowa: gałęzie mięśniowe nerwu łokciowego",
+  "ctx": "nerve | flexor-digitorum-profundus"
+ },
+ "1f8e52d04a": {
+  "en": "Anterior interosseous nerve (branch of median nerve) (C8, T1)",
+  "pl": "nerw międzykostny przedni przedramienia (gałąź nerwu pośrodkowego) (C8, Th1)",
+  "ctx": "nerve | flexor-pollicis-longus"
+ },
+ "d21b2e5a7c": {
+  "en": "Facial nerve\nTemporal branch",
+  "pl": "nerw twarzowy – gałęzie skroniowe",
+  "ctx": "nerve | frontalis-muscle"
+ },
+ "5e51110e45": {
+  "en": "Tibial nerve from the sciatic, specifically, nerve roots S1–S2",
+  "pl": "nerw piszczelowy (od nerwu kulszowego), korzenie S1–S2",
+  "ctx": "nerve | gastrocnemius-muscle"
+ },
+ "2ea9370d89": {
+  "en": "C1 via the hypoglossal nerve",
+  "pl": "włókna C1 biegnące z nerwem podjęzykowym",
+  "ctx": "nerve | geniohyoid-muscle"
+ },
+ "ea7ed824a8": {
+  "en": "Branches from L1 to L3",
+  "pl": "gałęzie nerwów L1–L3",
+  "ctx": "nerve | iliopsoas-muscle"
+ },
+ "9f9a1b8ad3": {
+  "en": "Pharyngeal plexus of vagus nerve, recurrent laryngeal nerve and superior laryngeal nerve",
+  "pl": "splot gardłowy nerwu błędnego, nerw krtaniowy wsteczny i nerw krtaniowy górny",
+  "ctx": "nerve | inferior-pharyngeal-constrictor"
+ },
+ "df2e2b52bf": {
+  "en": "Thoracoabdominal nn. (T7-T11), subcostal n. (T12), iliohypogastric n. (L1) and ilioinguinal n. (L1)",
+  "pl": "nerwy piersiowo-brzuszne (Th7–Th11), nerw podżebrowy (Th12), nerw biodrowo-podbrzuszny (L1) i nerw biodrowo-pachwinowy (L1)",
+  "ctx": "nerve | internal-abdominal-oblique-muscle"
+ },
+ "c5363e7e46": {
+  "en": "Posterior rami of spinal nerves",
+  "pl": "gałęzie tylne nerwów rdzeniowych",
+  "ctx": "nerve | interspinales-thoracis-muscles"
+ },
+ "75a14dede5": {
+  "en": "Recurrent laryngeal branch of the vagus",
+  "pl": "nerw krtaniowy wsteczny (od nerwu błędnego)",
+  "ctx": "nerve | lateral-crico-arytenoid-muscle"
+ },
+ "8a13dbc4d9": {
+  "en": "Lateral pterygoid nerve from mandibular nerve",
+  "pl": "nerw skrzydłowy boczny (od nerwu żuchwowego)",
+  "ctx": "nerve | lateral-pterygoid-muscle"
+ },
+ "cb0442a4e7": {
+  "en": "Buccal branches of the facial nerve",
+  "pl": "gałęzie policzkowe nerwu twarzowego",
+  "ctx": "nerve | levator-anguli-oris"
+ },
+ "e258caba2e": {
+  "en": "Buccal branch of the facial nerve (C.N. VII)",
+  "pl": "gałęzie policzkowe nerwu twarzowego (VII)",
+  "ctx": "nerve | levator-labii-superioris"
+ },
+ "ac7e175012": {
+  "en": "Buccal branch of facial nerve",
+  "pl": "gałęzie policzkowe nerwu twarzowego",
+  "ctx": "nerve | levator-nasolabialis"
+ },
+ "b894f785d3": {
+  "en": "Superior division of oculomotor nerve",
+  "pl": "gałąź górna nerwu okoruchowego",
+  "ctx": "nerve | levator-palpebrae-superioris"
+ },
+ "5712e9f6d2": {
+  "en": "Cervical nerve (C3, C4) and dorsal scapular nerve (C5)",
+  "pl": "nerwy szyjne (C3, C4) i nerw grzbietowy łopatki (C5)",
+  "ctx": "nerve | levator-scapulae"
+ },
+ "a4ab10f9f7": {
+  "en": "Dorsal rami C8-T11 (Intercostal nerves)",
+  "pl": "gałęzie tylne nerwów C8–Th11 (nerwy międzyżebrowe)",
+  "ctx": "nerve | levatores-breves-costarum"
+ },
+ "c35f8f49f4": {
+  "en": "Third and fourth deep branch of ulnar nerve, first and second median nerve",
+  "pl": "mięśnie III i IV: gałąź głęboka nerwu łokciowego; mięśnie I i II: nerw pośrodkowy",
+  "ctx": "nerve | lumbrical-muscles-of-hand"
+ },
+ "554bb3af76": {
+  "en": "Mandibular nerve via nerve to medial pterygoid",
+  "pl": "nerw żuchwowy przez nerw skrzydłowy przyśrodkowy",
+  "ctx": "nerve | medial-pterygoid-muscle"
+ },
+ "418b424387": {
+  "en": "Inferior division of the oculomotor nerve",
+  "pl": "gałąź dolna nerwu okoruchowego",
+  "ctx": "nerve | medial-rectus-muscle"
+ },
+ "809b46319c": {
+  "en": "Mandibular branch of facial nerve",
+  "pl": "gałąź brzeżna żuchwy nerwu twarzowego",
+  "ctx": "nerve | mentalis-muscle"
+ },
+ "9dfcdcac5b": {
+  "en": "Posterior branches",
+  "pl": "gałęzie tylne nerwów rdzeniowych",
+  "ctx": "nerve | multifidus-colli-muscle"
+ },
+ "ece971d95f": {
+  "en": "Mylohyoid nerve, from inferior alveolar branch of mandibular nerve",
+  "pl": "nerw żuchwowo-gnykowy (od nerwu zębodołowego dolnego, gałęzi nerwu żuchwowego)",
+  "ctx": "nerve | mylohyoid-muscle"
+ },
+ "4a20d9f39a": {
+  "en": "Posterior branch of obturator nerve (third and fourth lumbar nerves)",
+  "pl": "gałąź tylna nerwu zasłonowego (L3, L4)",
+  "ctx": "nerve | obturator-externus"
+ },
+ "8014391596": {
+  "en": "Posterior auricular nerve (a branch of the facial nerve)",
+  "pl": "nerw uszny tylny (gałąź nerwu twarzowego)",
+  "ctx": "nerve | occipitalis-muscle"
+ },
+ "ee53405320": {
+  "en": "Temporal (orbital, palpebral) and zygomatic (lacrimal) branches of facial nerve",
+  "pl": "gałęzie skroniowe (część oczodołowa i powiekowa) i jarzmowe (część łzowa) nerwu twarzowego",
+  "ctx": "nerve | orbicularis-oculi-muscle"
+ },
+ "9bd953ba62": {
+  "en": "Cranial nerve VII, buccal branch",
+  "pl": "nerw twarzowy (VII), gałęzie policzkowe",
+  "ctx": "nerve | orbicularis-oris-muscle"
+ },
+ "0b077b7e65": {
+  "en": "Femoral nerve, sometimes obturator nerve",
+  "pl": "nerw udowy, czasem także nerw zasłonowy",
+  "ctx": "nerve | pectineus-muscle"
+ },
+ "6feeb37242": {
+  "en": "Nerve to the piriformis (L5, S1, and S2)",
+  "pl": "nerw mięśnia gruszkowatego (L5, S1 i S2)",
+  "ctx": "nerve | piriformis-muscle"
+ },
+ "63793ee3c3": {
+  "en": "Tibial nerve from anterior rami of S1-S2",
+  "pl": "nerw piszczelowy (gałęzie przednie S1–S2)",
+  "ctx": "nerve | plantaris-muscle"
+ },
+ "96420ddb28": {
+  "en": "Cervical branch of the facial nerve",
+  "pl": "gałąź szyjna nerwu twarzowego",
+  "ctx": "nerve | platysma"
+ },
+ "78ade75043": {
+  "en": "Recurrent laryngeal nerve branch of the vagus nerve (CN X)",
+  "pl": "nerw krtaniowy wsteczny (gałąź nerwu błędnego, X)",
+  "ctx": "nerve | posterior-crico-arytenoid-muscle"
+ },
+ "2d5f02e400": {
+  "en": "Temporal branch of the facial nerve",
+  "pl": "gałęzie skroniowe nerwu twarzowego",
+  "ctx": "nerve | procerus-muscle"
+ },
+ "38f676f331": {
+  "en": "Median nerve (anterior interosseous nerve)",
+  "pl": "nerw pośrodkowy (nerw międzykostny przedni przedramienia)",
+  "ctx": "nerve | pronator-quadratus"
+ },
+ "4bd13c364d": {
+  "en": "Lumbar plexus via anterior branches of L1–L3 nerves",
+  "pl": "splot lędźwiowy – gałęzie przednie nerwów L1–L3",
+  "ctx": "nerve | psoas-major"
+ },
+ "b1de22e312": {
+  "en": "The twelfth thoracic and first through fourth ventral rami of lumbar nerves (T12, L1-L4)",
+  "pl": "gałęzie przednie nerwu piersiowego XII i nerwów lędźwiowych I–IV (Th12, L1–L4)",
+  "ctx": "nerve | quadratus-lumborum-muscle"
+ },
+ "a304149c54": {
+  "en": "Lateral plantar nerve (S1, 2)",
+  "pl": "nerw podeszwowy boczny (S1, S2)",
+  "ctx": "nerve | quadratus-plantae-muscle"
+ },
+ "7bc0970317": {
+  "en": "Segmentally by thoraco-abdominal nerves (T7 to T11) and subcostal (T12)",
+  "pl": "segmentalnie przez nerwy piersiowo-brzuszne (Th7–Th11) i nerw podżebrowy (Th12)",
+  "ctx": "nerve | rectus-abdominis-muscle"
+ },
+ "80ffb21b78": {
+  "en": "Ventral primary rami of spinal nerves C1-2",
+  "pl": "gałęzie przednie nerwów rdzeniowych C1–C2",
+  "ctx": "nerve | rectus-anterior-capitis-muscle"
+ },
+ "8395c6ac31": {
+  "en": "Dorsal ramus of C1 (suboccipital nerve), sub-occipital nerve",
+  "pl": "gałąź tylna nerwu C1 (nerw podpotyliczny)",
+  "ctx": "nerve | rectus-posterior-major-capitis-muscle"
+ },
+ "1f595fe355": {
+  "en": "Branch of the dorsal primary division of the suboccipital nerve",
+  "pl": "gałąź nerwu podpotylicznego (gałąź tylna C1)",
+  "ctx": "nerve | rectus-posterior-minor-capitis-muscle"
+ },
+ "40aee7b364": {
+  "en": "Femoral nerve (sometimes from the intermediate cutaneous nerve of thigh)",
+  "pl": "nerw udowy (czasem od nerwu skórnego pośredniego uda)",
+  "ctx": "nerve | sartorius-muscle"
+ },
+ "7409e07480": {
+  "en": "Sciatic (tibial, L5, S1, S2)",
+  "pl": "nerw kulszowy (część piszczelowa; L5, S1, S2)",
+  "ctx": "nerve | semitendinosus-muscle"
+ },
+ "1aa9632750": {
+  "en": "Long thoracic nerve (from roots of brachial plexus C5-C7)",
+  "pl": "nerw piersiowy długi (z korzeni splotu ramiennego C5–C7)",
+  "ctx": "nerve | serratus-anterior-muscle"
+ },
+ "588bee7f6b": {
+  "en": "Intercostal nerves T9 through T12",
+  "pl": "nerwy międzyżebrowe Th9–Th12",
+  "ctx": "nerve | serratus-posterior-inferior-muscle"
+ },
+ "1eb2510d5b": {
+  "en": "2nd through 5th intercostal nerves",
+  "pl": "nerwy międzyżebrowe II–V",
+  "ctx": "nerve | serratus-posterior-superior-muscle"
+ },
+ "4b8773b841": {
+  "en": "Supraorbital nerve",
+  "pl": "nerw nadoczodołowy",
+  "ctx": "nerve | sinus-of-frontal-bone"
+ },
+ "564c9758b6": {
+  "en": "Posterior ethmoidal nerves, and orbital branches of the pterygopalatine ganglion",
+  "pl": "nerw sitowy tylny i gałęzie oczodołowe zwoju skrzydłowo-podniebiennego",
+  "ctx": "nerve | sinus-of-sphenoid-bone"
+ },
+ "db2ddd10a3": {
+  "en": "Tibial nerve, specifically, nerve roots L5–S2",
+  "pl": "nerw piszczelowy, korzenie L5–S2",
+  "ctx": "nerve | soleus-muscle"
+ },
+ "512aa3f3cc": {
+  "en": "Posterior ramus of spinal nerves C3 and C4",
+  "pl": "gałęzie tylne nerwów rdzeniowych C3 i C4",
+  "ctx": "nerve | splenius-capitis-muscle"
+ },
+ "d16bb7dec4": {
+  "en": "Posterior rami of the lower Cervical spinal nerves",
+  "pl": "gałęzie tylne dolnych nerwów rdzeniowych szyjnych",
+  "ctx": "nerve | splenius-colli-muscle"
+ },
+ "55cefb9284": {
+  "en": "Motor: spinal accessory nerve\nsensory: cervical plexus\nProprioceptive: ventral primary rami of C2 and C3",
+  "pl": "ruchowo: nerw dodatkowy\nczuciowo: splot szyjny\nproprioceptywnie: gałęzie przednie nerwów C2 i C3",
+  "ctx": "nerve | sternocleidomastoid-muscle"
+ },
+ "8d755a398a": {
+  "en": "Glossopharyngeal nerve (CN IX)",
+  "pl": "nerw językowo-gardłowy (IX)",
+  "ctx": "nerve | stylopharyngeus-muscle"
+ },
+ "d0a3eee276": {
+  "en": "Upper subscapular nerve, lower subscapular nerve (C5, C6)",
+  "pl": "nerwy podłopatkowe górny i dolny (C5, C6)",
+  "ctx": "nerve | subscapularis-muscle"
+ },
+ "739753e347": {
+  "en": "Recurrent branch of the median nerve, deep branch of ulnar nerve (medial head)",
+  "pl": "gałąź wsteczna nerwu pośrodkowego; gałąź głęboka nerwu łokciowego (głowa przyśrodkowa)",
+  "ctx": "nerve | superficial-head-of-flexor-pollicis-brevis"
+ },
+ "1fd11f5684": {
+  "en": "Mandibular nerve (V3)",
+  "pl": "nerw żuchwowy (V3)",
+  "ctx": "nerve | superficial-part-of-masseter"
+ },
+ "9cf2c11278": {
+  "en": "Pharyngeal plexus of vagus nerve",
+  "pl": "splot gardłowy nerwu błędnego",
+  "ctx": "nerve | superior-pharyngeal-constrictor"
+ },
+ "5640d32d1e": {
+  "en": "Deep branch of the radial nerve",
+  "pl": "gałąź głęboka nerwu promieniowego",
+  "ctx": "nerve | supinator"
+ },
+ "1e2bc59d40": {
+  "en": "Deep temporal nerves, branches of the anterior division of the mandibular nerve (V3)",
+  "pl": "nerwy skroniowe głębokie (gałęzie pnia przedniego nerwu żuchwowego, V3)",
+  "ctx": "nerve | temporalis-muscle"
+ },
+ "840d28147e": {
+  "en": "Temporal branches of the facial nerve",
+  "pl": "gałęzie skroniowe nerwu twarzowego",
+  "ctx": "nerve | temporoparietalis-muscle"
+ },
+ "f802396224": {
+  "en": "S2\nPubococcygeus and iliococcygeus:\n• levator ani nerve (S4)\n• inferior rectal nerve from pudendal nerve (S3, S4)\n• coccygeal plexus\nPuborectalis:\n• S3, S4\n• levator ani nerve",
+  "pl": "S2\nmięsień łonowo-guziczny i biodrowo-guziczny:\n• nerw mięśnia dźwigacza odbytu (S4)\n• nerwy odbytnicze dolne od nerwu sromowego (S3, S4)\n• splot guziczny\nmięsień łonowo-odbytniczy:\n• S3, S4\n• nerw mięśnia dźwigacza odbytu",
+  "ctx": "nerve | tendinous-arch-of-levator-ani"
+ },
+ "bcfa80558b": {
+  "en": "Lower subscapular nerve (segmental levels C5 and C6)",
+  "pl": "nerw podłopatkowy dolny (C5, C6)",
+  "ctx": "nerve | teres-major-muscle"
+ },
+ "f58b114364": {
+  "en": "First cervical nerve (C1) via hypoglossal nerve",
+  "pl": "pierwszy nerw szyjny (C1) biegnący z nerwem podjęzykowym",
+  "ctx": "nerve | thyrohyoid-muscle"
+ },
+ "23cc2a1f02": {
+  "en": "Deep fibular (peroneal) nerve (L5)",
+  "pl": "nerw strzałkowy głęboki (L5)",
+  "ctx": "nerve | tibialis-anterior-muscle"
+ },
+ "d27ee4be10": {
+  "en": "Deep branch of the ulnar nerve (T1)",
+  "pl": "gałąź głęboka nerwu łokciowego (Th1)",
+  "ctx": "nerve | transverse-head-of-adductor-pollicis"
+ },
+ "8675e52fd9": {
+  "en": "Thoracoabdominal nn. (T6-T11), Subcostal n. (T12), iliohypogastric nerve (L1), and ilioinguinal nerve (L1)",
+  "pl": "nerwy piersiowo-brzuszne (Th6–Th11), nerw podżebrowy (Th12), nerw biodrowo-podbrzuszny (L1) i nerw biodrowo-pachwinowy (L1)",
+  "ctx": "nerve | transversus-abdominis-muscle"
+ },
+ "8b8d089cd2": {
+  "en": "Zygomatic and buccal branches of the facial nerve",
+  "pl": "gałęzie jarzmowe i policzkowe nerwu twarzowego",
+  "ctx": "nerve | zygomaticus-major-muscle"
+ },
+ "5a0ef7eb18": {
+  "en": "Buccal branch",
+  "pl": "gałęzie policzkowe nerwu twarzowego",
+  "ctx": "nerve | zygomaticus-minor-muscle"
+ },
+ "b330c89c08": {
+  "en": "Clavicular head: anterior surface of the medial half of the clavicle.\nSternocostal head: anterior surface of the sternum, the superior six costal cartilages, and the aponeurosis of the external oblique muscle",
+  "pl": "część obojczykowa: przednia powierzchnia przyśrodkowej połowy obojczyka.\nczęść mostkowo-żebrowa: przednia powierzchnia mostka, sześć górnych chrząstek żebrowych i rozcięgno mięśnia skośnego zewnętrznego brzucha",
+  "ctx": "origin | abdominal-part-of-pectoralis-major-muscle"
+ },
+ "9cd25b698c": {
+  "en": "Pisiform bone, the pisohamate ligament, and the flexor retinaculum",
+  "pl": "kość grochowata, więzadło grochowo-haczykowe i troczek zginaczy",
+  "ctx": "origin | abductor-digiti-minimi-of-hand"
+ },
+ "8b22ae9c3e": {
+  "en": "Anterior surface of the inferior ramus and body of the pubis",
+  "pl": "przednia powierzchnia gałęzi dolnej i trzonu kości łonowej",
+  "ctx": "origin | adductor-brevis"
+ },
+ "148b266ee2": {
+  "en": "Oblique head: proximal ends of middle 3 metatarsal bones; Transverse head: MTP ligaments of lateral 3 toes",
+  "pl": "głowa skośna: podstawy II–IV kości śródstopia; głowa poprzeczna: więzadła stawów śródstopno-paliczkowych palców III–V",
+  "ctx": "origin | adductor-hallucis"
+ },
+ "125df6ed92": {
+  "en": "Pubic body just below the pubic crest",
+  "pl": "trzon kości łonowej tuż poniżej grzebienia łonowego",
+  "ctx": "origin | adductor-longus"
+ },
+ "86996115cb": {
+  "en": "Pubis, tuberosity of the ischium",
+  "pl": "kość łonowa (gałąź dolna), guz kulszowy",
+  "ctx": "origin | adductor-magnus"
+ },
+ "1d37da41e5": {
+  "en": "Inferior ramus",
+  "pl": "gałąź dolna kości łonowej",
+  "ctx": "origin | adductor-minimus"
+ },
+ "87a5b5cfd4": {
+  "en": "Lateral epicondyle of the humerus proximally",
+  "pl": "nadkłykieć boczny kości ramiennej",
+  "ctx": "origin | anconeus-muscle"
+ },
+ "db09c024bb": {
+  "en": "Anterior belly - digastric fossa (mandible); posterior belly - mastoid notch of temporal bone",
+  "pl": "brzusiec przedni: dół dwubrzuścowy żuchwy; brzusiec tylny: wcięcie sutkowe kości skroniowej",
+  "ctx": "origin | anterior-belly-of-digastric-muscle"
+ },
+ "f9a63fe36a": {
+  "en": "Continuation of the oblique arytenoid past the arytenoid apex",
+  "pl": "przedłużenie mięśnia nalewkowego skośnego poza szczyt chrząstki nalewkowatej",
+  "ctx": "origin | ary-epiglottic-part-of-oblique-arytenoid-muscle"
+ },
+ "5f19f1508e": {
+  "en": "Medial one-third of superior nuchal line, external occipital protuberance, spinous processes of vertebrae C7-T12, Nuchal ligament",
+  "pl": "przyśrodkowa jedna trzecia kresy karkowej górnej, guzowatość potyliczna zewnętrzna, wyrostki kolczyste kręgów C7–Th12, więzadło karkowe",
+  "ctx": "origin | ascending-part-of-trapezius-muscle"
+ },
+ "709d1a5f88": {
+  "en": "Tuberosity of the ischium, linea aspera, femur",
+  "pl": "guz kulszowy (głowa długa), kresa chropawa kości udowej (głowa krótka)",
+  "ctx": "origin | biceps-femoris-muscle"
+ },
+ "0b9e686e55": {
+  "en": "Anterior surface of the humerus, particularly the distal half of this bone",
+  "pl": "przednia powierzchnia kości ramiennej, zwłaszcza jej dalszej połowy",
+  "ctx": "origin | brachialis-muscle"
+ },
+ "9590da19ac": {
+  "en": "Lateral supracondylar ridge of the humerus and the orbicular ligament of the radius",
+  "pl": "grzebień nadkłykciowy boczny kości ramiennej i więzadło obrączkowate kości promieniowej",
+  "ctx": "origin | brachioradialis-muscle"
+ },
+ "0c6e49f1b8": {
+  "en": "From the alveolar processes of maxilla and mandible, buccinator crest and pterygomandibular raphe",
+  "pl": "wyrostki zębodołowe szczęki i żuchwy, grzebień policzkowy i szew skrzydłowo-żuchwowy",
+  "ctx": "origin | bucinator"
+ },
+ "c00170081e": {
+  "en": "Supraorbital ridge (superciliary arches)",
+  "pl": "łuk brwiowy (przyśrodkowa część brzegu nadoczodołowego)",
+  "ctx": "origin | corrugator-supercilii"
+ },
+ "f2df4274da": {
+  "en": "Anterior and lateral cricoid cartilage",
+  "pl": "przednia i boczna powierzchnia łuku chrząstki pierścieniowatej",
+  "ctx": "origin | cricothyroid-muscle"
+ },
+ "389b2416ca": {
+  "en": "The anterior border and upper surface of the lateral third of the clavicle, acromion, spine of the scapula",
+  "pl": "przedni brzeg i górna powierzchnia bocznej jednej trzeciej obojczyka, wyrostek barkowy, grzebień łopatki",
+  "ctx": "origin | deltoid-muscle"
+ },
+ "09483c9354": {
+  "en": "Tubercle of mandible",
+  "pl": "guzek żuchwy",
+  "ctx": "origin | depressor-anguli-oris"
+ },
+ "6e7c79eead": {
+  "en": "Oblique line of the mandible, between the symphysis and the mental foramen",
+  "pl": "kresa skośna żuchwy, między spojeniem żuchwy a otworem bródkowym",
+  "ctx": "origin | depressor-labii-inferioris"
+ },
+ "40f1da5abd": {
+  "en": "L1–L3, the xiphoid process, 6–12th rib and their costal cartilages",
+  "pl": "kręgi L1–L3, wyrostek mieczykowaty, żebra VI–XII i ich chrząstki żebrowe",
+  "ctx": "origin | diaphragm"
+ },
+ "7a506305d4": {
+  "en": "Spinous processes of T9-T12 thoracic vertebrae, medial slope of the dorsal segment of iliac crest",
+  "pl": "wyrostki kolczyste kręgów piersiowych Th9–Th12, przyśrodkowa część tylnego odcinka grzebienia biodrowego",
+  "ctx": "origin | erector-spinae"
+ },
+ "f6f2c94d93": {
+  "en": "Humerus at the anterior of lateral epicondyle (common extensor tendon)",
+  "pl": "przednia strona nadkłykcia bocznego kości ramiennej (ścięgno wspólne prostowników)",
+  "ctx": "origin | extensor-carpi-radialis-brevis"
+ },
+ "ed2b1c6c5f": {
+  "en": "Humeral head: Lateral epicondyle of the humerus. (???-->)Ulnar head: Olecranon, posterior surface of ulna, antebrachial fascia",
+  "pl": "głowa ramienna: nadkłykieć boczny kości ramiennej; głowa łokciowa: wyrostek łokciowy, tylna powierzchnia kości łokciowej, powięź przedramienia",
+  "ctx": "origin | extensor-carpi-ulnaris"
+ },
+ "34a44d17c6": {
+  "en": "The anterior portion of the lateral epicondyle of the humerus (common extensor tendon)",
+  "pl": "przednia część nadkłykcia bocznego kości ramiennej (ścięgno wspólne prostowników)",
+  "ctx": "origin | extensor-digiti-minimi"
+ },
+ "86383cbf75": {
+  "en": "Lateral epicondyle (common extensor tendon)",
+  "pl": "nadkłykieć boczny kości ramiennej (ścięgno wspólne prostowników)",
+  "ctx": "origin | extensor-digitorum"
+ },
+ "9fe6a958a9": {
+  "en": "Dorsal surface of calcaneus",
+  "pl": "grzbietowa (górno-boczna) powierzchnia kości piętowej",
+  "ctx": "origin | extensor-digitorum-brevis"
+ },
+ "026a6dfc48": {
+  "en": "Anterior lateral condyle of tibia, anterior shaft of fibula and superior of interosseous membrane",
+  "pl": "przednia strona kłykcia bocznego piszczeli, przednia powierzchnia trzonu kości strzałkowej i górna część błony międzykostnej",
+  "ctx": "origin | extensor-digitorum-longus"
+ },
+ "02c420e162": {
+  "en": "Arises from the middle portion of the fibula on the anterior surface and the interosseous membrane",
+  "pl": "środkowa część przedniej powierzchni kości strzałkowej i błona międzykostna goleni",
+  "ctx": "origin | extensor-hallucis-longus"
+ },
+ "e24d790952": {
+  "en": "Posterior distal third of ulna and interosseous membrane",
+  "pl": "tylna powierzchnia dalszej jednej trzeciej kości łokciowej i błona międzykostna przedramienia",
+  "ctx": "origin | extensor-indicis"
+ },
+ "d3251e163b": {
+  "en": "Middle third of posterior surface of ulna, interosseous membrane",
+  "pl": "środkowa jedna trzecia tylnej powierzchni kości łokciowej, błona międzykostna",
+  "ctx": "origin | extensor-pollicis-longus"
+ },
+ "b80a5360a6": {
+  "en": "Ribs 5-12,",
+  "pl": "żebra V–XII (powierzchnie zewnętrzne)",
+  "ctx": "origin | external-abdominal-oblique-muscle"
+ },
+ "404665da55": {
+  "en": "Lower border of ribs",
+  "pl": "dolny brzeg żeber",
+  "ctx": "origin | external-intercostal-muscles"
+ },
+ "4f2b231c4d": {
+  "en": "Lower two-thirds of lateral fibula",
+  "pl": "dolne dwie trzecie bocznej powierzchni kości strzałkowej",
+  "ctx": "origin | fibularis-brevis-muscle"
+ },
+ "849c527d7e": {
+  "en": "Proximal part of lateral surface of shaft of fibula and head of fibula",
+  "pl": "bliższa część bocznej powierzchni trzonu kości strzałkowej i głowa kości strzałkowej",
+  "ctx": "origin | fibularis-longus-muscle"
+ },
+ "8925ede0eb": {
+  "en": "Distal anterior surface of the fibula also the interosseous membrane",
+  "pl": "dalsza część przedniej powierzchni kości strzałkowej oraz błona międzykostna",
+  "ctx": "origin | fibularis-tertius-muscle"
+ },
+ "c0f301b881": {
+  "en": "Medial epicondyle of humerus (common flexor tendon)",
+  "pl": "nadkłykieć przyśrodkowy kości ramiennej (ścięgno wspólne zginaczy)",
+  "ctx": "origin | flexor-carpi-radialis"
+ },
+ "457bd013cf": {
+  "en": "Medial epicondyle (common flexor tendon) and medial margin on olecranon of ulna",
+  "pl": "nadkłykieć przyśrodkowy kości ramiennej (ścięgno wspólne zginaczy) i przyśrodkowy brzeg wyrostka łokciowego",
+  "ctx": "origin | flexor-carpi-ulnaris"
+ },
+ "4974ab686d": {
+  "en": "Posterior surface of the body of the tibia",
+  "pl": "tylna powierzchnia trzonu kości piszczelowej",
+  "ctx": "origin | flexor-digitorum-longus"
+ },
+ "14771fdb8d": {
+  "en": "Upper 3/4 of the anterior and medial surfaces of the body of the ulna, interosseous membrane and deep fascia of the forearm",
+  "pl": "górne trzy czwarte przedniej i przyśrodkowej powierzchni trzonu kości łokciowej, błona międzykostna i powięź głęboka przedramienia",
+  "ctx": "origin | flexor-digitorum-profundus"
+ },
+ "8af3d2c85e": {
+  "en": "Plantar aspect of the cuneiforms, plantar calcaneocuboid ligament, long plantar ligament",
+  "pl": "podeszwowa powierzchnia kości klinowatych, więzadło piętowo-sześcienne podeszwowe, więzadło podeszwowe długie",
+  "ctx": "origin | flexor-hallucis-brevis"
+ },
+ "38027242c9": {
+  "en": "Fibula, posterior aspect of middle 1/3",
+  "pl": "tylna powierzchnia środkowej jednej trzeciej kości strzałkowej",
+  "ctx": "origin | flexor-hallucis-longus"
+ },
+ "6ad6fbc7fa": {
+  "en": "The middle 1/2 of the anterior surface of the radius and adjacent to the interosseus membrane.",
+  "pl": "środkowa połowa przedniej powierzchni kości promieniowej i przyległa błona międzykostna.",
+  "ctx": "origin | flexor-pollicis-longus"
+ },
+ "7ced5a4243": {
+  "en": "Galea aponeurotica (epicranial aponeurotis)",
+  "pl": "czepiec ścięgnisty (rozcięgno naczaszne)",
+  "ctx": "origin | frontalis-muscle"
+ },
+ "f6295d8d2a": {
+  "en": "Proximal to articular surfaces of lateral condyle of femur and medial condyle of femur",
+  "pl": "powyżej powierzchni stawowych kłykci bocznego i przyśrodkowego kości udowej",
+  "ctx": "origin | gastrocnemius-muscle"
+ },
+ "65a120f2f6": {
+  "en": "Superior part of mental spine of mandible (symphysis menti)",
+  "pl": "górna część kolca bródkowego żuchwy",
+  "ctx": "origin | genioglossus-muscle"
+ },
+ "9221a9bc67": {
+  "en": "Gluteal surface of ilium, lumbar fascia, sacrum, sacrotuberous ligament",
+  "pl": "powierzchnia pośladkowa talerza kości biodrowej, powięź piersiowo-lędźwiowa, kość krzyżowa, więzadło krzyżowo-guzowe",
+  "ctx": "origin | gluteus-maximus-muscle"
+ },
+ "bcdcc58d76": {
+  "en": "Gluteal surface of ilium, under gluteus maximus, Aponeurosis glutea",
+  "pl": "powierzchnia pośladkowa talerza kości biodrowej (pod mięśniem pośladkowym wielkim), rozcięgno pośladkowe",
+  "ctx": "origin | gluteus-medius-muscle"
+ },
+ "b3f782a4ef": {
+  "en": "From area in between the anterior gluteal line and inferior gluteal line of gluteal surface ilium, under gluteus medius.",
+  "pl": "powierzchnia pośladkowa talerza kości biodrowej między kresą pośladkową przednią a dolną, pod mięśniem pośladkowym średnim.",
+  "ctx": "origin | gluteus-minimus-muscle"
+ },
+ "14eb3c59f4": {
+  "en": "Upper two-thirds of the iliac fossa",
+  "pl": "górne dwie trzecie dołu biodrowego",
+  "ctx": "origin | iliacus-muscle"
+ },
+ "e19ad37fef": {
+  "en": "Sacrum, iliac crest, thoracolumbar fascia, spinous processes of vertebrae from T11 - L5",
+  "pl": "kość krzyżowa, grzebień biodrowy, powięź piersiowo-lędźwiowa, wyrostki kolczyste kręgów Th11–L5",
+  "ctx": "origin | iliocostalis-lumborum-muscle"
+ },
+ "886845f732": {
+  "en": "Anterolateral iliac tubercle portion of the external lip of the iliac crest",
+  "pl": "guzek biodrowy na przednio-bocznej części wargi zewnętrznej grzebienia biodrowego",
+  "ctx": "origin | iliotibial-tract"
+ },
+ "b4cd8824e0": {
+  "en": "Orbital surface of the maxilla, lateral to the lacrimal groove",
+  "pl": "powierzchnia oczodołowa szczęki, bocznie od bruzdy łzowej",
+  "ctx": "origin | inferior-oblique-muscle"
+ },
+ "54279f1802": {
+  "en": "Infero-posterior border of each rib (above)",
+  "pl": "dolno-tylny brzeg żebra leżącego wyżej",
+  "ctx": "origin | innermost-intercostal-muscles"
+ },
+ "590de19ac3": {
+  "en": "Rib - superior border",
+  "pl": "górny brzeg żebra",
+  "ctx": "origin | internal-intercostal-muscles"
+ },
+ "8abfc71eb9": {
+  "en": "Lateral part of the arch of the cricoid",
+  "pl": "boczna część łuku chrząstki pierścieniowatej",
+  "ctx": "origin | lateral-crico-arytenoid-muscle"
+ },
+ "9b90863cc2": {
+  "en": "Superior head: infratemporal surface of sphenoid bone. Inferior head: lateral pterygoid plate",
+  "pl": "głowa górna: powierzchnia podskroniowa kości klinowej; głowa dolna: blaszka boczna wyrostka skrzydłowatego",
+  "ctx": "origin | lateral-pterygoid-muscle"
+ },
+ "a1d4bb95aa": {
+  "en": "Spinous processes of vertebrae T7-S5, thoracolumbar fascia, iliac crest, inferior 4 ribs and inferior angle of scapula",
+  "pl": "wyrostki kolczyste kręgów Th7–S5, powięź piersiowo-lędźwiowa, grzebień biodrowy, cztery dolne żebra i kąt dolny łopatki",
+  "ctx": "origin | latissimus-dorsi-muscle"
+ },
+ "d296c9b969": {
+  "en": "Medial infra-orbital margin",
+  "pl": "przyśrodkowa część brzegu podoczodołowego",
+  "ctx": "origin | levator-labii-superioris"
+ },
+ "da9e609579": {
+  "en": "Inferior surface of lesser wing of sphenoid",
+  "pl": "dolna powierzchnia skrzydła mniejszego kości klinowej",
+  "ctx": "origin | levator-palpebrae-superioris"
+ },
+ "a3969ffa07": {
+  "en": "Posterior tubercles of transverse processes of C1 - C4 vertebrae",
+  "pl": "guzki tylne wyrostków poprzecznych kręgów C1–C4",
+  "ctx": "origin | levator-scapulae"
+ },
+ "e0f78f1020": {
+  "en": "Transverse processes of C7 to T11 vertebrae",
+  "pl": "wyrostki poprzeczne kręgów C7–Th11",
+  "ctx": "origin | levatores-breves-costarum"
+ },
+ "d6f9249313": {
+  "en": "Anterior tubercles of the transverse processes of the third, fourth, fifth, and sixth cervical vertebræ",
+  "pl": "guzki przednie wyrostków poprzecznych kręgów szyjnych C3–C6",
+  "ctx": "origin | longus-capitis-muscle"
+ },
+ "2e21c8ab96": {
+  "en": "Transverse processes of C5 to T3",
+  "pl": "wyrostki poprzeczne kręgów C5–Th3",
+  "ctx": "origin | longus-colli-muscle"
+ },
+ "5612a4c74d": {
+  "en": "Medial borders of long flexor tendons",
+  "pl": "przyśrodkowe brzegi ścięgien mięśnia zginacza długiego palców",
+  "ctx": "origin | lumbrical-muscles-of-foot"
+ },
+ "9ecb2a716f": {
+  "en": "Deep head: medial side of lateral pterygoid plate behind the upper teeth\nSuperficial head: pyramidal process of palatine bone and maxillary tuberosity",
+  "pl": "głowa głęboka: przyśrodkowa powierzchnia blaszki bocznej wyrostka skrzydłowatego\ngłowa powierzchowna: wyrostek piramidowy kości podniebiennej i guz szczęki",
+  "ctx": "origin | medial-pterygoid-muscle"
+ },
+ "e75de563ad": {
+  "en": "Common tendinous ring at the orbital apex",
+  "pl": "pierścień ścięgnisty wspólny w szczycie oczodołu",
+  "ctx": "origin | medial-rectus-muscle"
+ },
+ "9a53b08892": {
+  "en": "Anterior mandible",
+  "pl": "przednia powierzchnia żuchwy (poniżej siekaczy dolnych)",
+  "ctx": "origin | mentalis-muscle"
+ },
+ "0ae34ff925": {
+  "en": "Sacrum, erector spinae aponeurosis, PSIS, and iliac crest",
+  "pl": "kość krzyżowa, rozcięgno mięśnia prostownika grzbietu, kolec biodrowy tylny górny i grzebień biodrowy",
+  "ctx": "origin | multifidus-colli-muscle"
+ },
+ "a83aa5404a": {
+  "en": "Upper border of the scapula (inferior belly), intermediate tendon (superior belly)",
+  "pl": "górny brzeg łopatki (brzusiec dolny), ścięgno pośrednie (brzusiec górny)",
+  "ctx": "origin | omohyoid-muscle"
+ },
+ "d821aa4cef": {
+  "en": "Sides of metacarpals facing midline",
+  "pl": "powierzchnie kości śródręcza zwrócone ku osi ręki (palcowi III)",
+  "ctx": "origin | palmar-interossei-muscles"
+ },
+ "6689f19aeb": {
+  "en": "Pectineal line of the pubic bone",
+  "pl": "grzebień kości łonowej",
+  "ctx": "origin | pectineus-muscle"
+ },
+ "e11dac3c73": {
+  "en": "Third to fifth ribs, near the costochondral junction",
+  "pl": "żebra III–V w pobliżu połączeń z chrząstkami żebrowymi",
+  "ctx": "origin | pectoralis-minor-muscle"
+ },
+ "ed8ea5c697": {
+  "en": "Lateral supracondylar ridge of femur above lateral head of gastrocnemius",
+  "pl": "boczna kresa nadkłykciowa kości udowej, powyżej głowy bocznej mięśnia brzuchatego łydki",
+  "ctx": "origin | plantaris-muscle"
+ },
+ "818b60fe33": {
+  "en": "Subcutaneous tissue of infraclavicular and supraclavicular regions",
+  "pl": "tkanka podskórna okolicy podobojczykowej i nadobojczykowej",
+  "ctx": "origin | platysma"
+ },
+ "0ad6a2e4f0": {
+  "en": "Lateral femoral epicondyle",
+  "pl": "nadkłykieć boczny kości udowej",
+  "ctx": "origin | popliteus-muscle"
+ },
+ "be03ddbbe9": {
+  "en": "Posterior part of the cricoid",
+  "pl": "tylna powierzchnia blaszki chrząstki pierścieniowatej",
+  "ctx": "origin | posterior-crico-arytenoid-muscle"
+ },
+ "afe990e836": {
+  "en": "From fascia over the lower part of the nasal bone",
+  "pl": "powięź pokrywająca dolną część kości nosowej",
+  "ctx": "origin | procerus-muscle"
+ },
+ "da1795efc5": {
+  "en": "Medial, anterior surface of the ulna",
+  "pl": "przednia powierzchnia dalszej części kości łokciowej (przyśrodkowo)",
+  "ctx": "origin | pronator-quadratus"
+ },
+ "0d1fd55fa9": {
+  "en": "Humeral head: medial supracondylar ridge of humerus slightly above the medial epicondyle of humerus (common flexor tendon)\nUlnar head: coronoid process of ulna",
+  "pl": "głowa ramienna: grzebień nadkłykciowy przyśrodkowy kości ramiennej tuż powyżej nadkłykcia przyśrodkowego (ścięgno wspólne zginaczy)\ngłowa łokciowa: wyrostek dziobiasty kości łokciowej",
+  "ctx": "origin | pronator-teres"
+ },
+ "40601d6c6e": {
+  "en": "Transverse processes of T12–L4 and the lateral aspects of the discs between them",
+  "pl": "wyrostki poprzeczne kręgów Th12–L4 oraz boczne powierzchnie krążków międzykręgowych między nimi",
+  "ctx": "origin | psoas-major"
+ },
+ "71a70ae85d": {
+  "en": "Posterior border of iliac crest",
+  "pl": "tylna część grzebienia biodrowego",
+  "ctx": "origin | quadratus-lumborum-muscle"
+ },
+ "d5914ee051": {
+  "en": "Combined rectus femoris and vastus muscles",
+  "pl": "przyczepy mięśnia prostego uda i mięśni obszernych (zob. części)",
+  "ctx": "origin | quadriceps-femoris-muscle"
+ },
+ "cfd22b5fe5": {
+  "en": "Medial epicondyle of the humerus (common flexor tendon) as well as parts of the radius and ulna",
+  "pl": "nadkłykieć przyśrodkowy kości ramiennej (ścięgno wspólne zginaczy) oraz części kości promieniowej i łokciowej",
+  "ctx": "origin | radial-head-of-flexor-digitorum-superficialis"
+ },
+ "136a3c46ff": {
+  "en": "Crest of pubic",
+  "pl": "grzebień łonowy",
+  "ctx": "origin | rectus-abdominis-muscle"
+ },
+ "f3b3e84aa3": {
+  "en": "Anterior inferior iliac spine and the exterior surface of the bony ridge which forms the groove on the iliac portion of the acetabulum",
+  "pl": "kolec biodrowy przedni dolny i zewnętrzna powierzchnia kości biodrowej powyżej panewki (bruzda nadpanewkowa)",
+  "ctx": "origin | rectus-femoris-muscle"
+ },
+ "a4fa432d15": {
+  "en": "Upper surface of the transverse process of the atlas",
+  "pl": "górna powierzchnia wyrostka poprzecznego kręgu szczytowego",
+  "ctx": "origin | rectus-lateralis-capitis-muscle"
+ },
+ "5c863de261": {
+  "en": "Tubercle on the posterior arch of the atlas",
+  "pl": "guzek tylny łuku tylnego kręgu szczytowego",
+  "ctx": "origin | rectus-posterior-minor-capitis-muscle"
+ },
+ "a95274b617": {
+  "en": "Spinous processes of the T2 to T5 vertebrae",
+  "pl": "wyrostki kolczyste kręgów Th2–Th5",
+  "ctx": "origin | rhomboid-major-muscle"
+ },
+ "746b76b3c4": {
+  "en": "Cervical vertebrae (CII-CVII)",
+  "pl": "kręgi szyjne C2–C7 (wyrostki poprzeczne)",
+  "ctx": "origin | scalenus-anterior-muscle"
+ },
+ "9e12ac168f": {
+  "en": "Lower quadrangular part of tuberosity of the ischium",
+  "pl": "dolna, czworoboczna część guza kulszowego",
+  "ctx": "origin | semitendinosus-muscle"
+ },
+ "113fe5c9e6": {
+  "en": "Fleshy slips from the outer surface of upper from 1st to 9 ribs",
+  "pl": "mięsiste zęby na zewnętrznej powierzchni żeber I–IX",
+  "ctx": "origin | serratus-anterior-muscle"
+ },
+ "98bd400b29": {
+  "en": "Vertebrae: Spinous processes of T11 - L2",
+  "pl": "wyrostki kolczyste kręgów Th11–L2",
+  "ctx": "origin | serratus-posterior-inferior-muscle"
+ },
+ "a6e8118617": {
+  "en": "Nuchal ligament (or ligamentum nuchae) and the spinous processes of the vertebrae C7 through T3",
+  "pl": "więzadło karkowe i wyrostki kolczyste kręgów C7–Th3",
+  "ctx": "origin | serratus-posterior-superior-muscle"
+ },
+ "b34420f55f": {
+  "en": "Fibula, medial border of tibia (soleal line)",
+  "pl": "kość strzałkowa, brzeg przyśrodkowy kości piszczelowej (kresa mięśnia płaszczkowatego)",
+  "ctx": "origin | soleus-muscle"
+ },
+ "669bad2412": {
+  "en": "Thoracis: Spinous process of upper lumbar and lower thoracic vertebrae.\nCervicis: nuchal ligament and spinous process of C7.",
+  "pl": "część piersiowa: wyrostki kolczyste górnych kręgów lędźwiowych i dolnych piersiowych.\nczęść szyjna: więzadło karkowe i wyrostek kolczysty C7.",
+  "ctx": "origin | spinalis-capitis-muscle"
+ },
+ "a09e215b7d": {
+  "en": "Nuchal ligament and spinous process of C7-T3",
+  "pl": "więzadło karkowe i wyrostki kolczyste kręgów C7–Th3",
+  "ctx": "origin | splenius-capitis-muscle"
+ },
+ "104f39d4cd": {
+  "en": "Spinous processes of T3-T6",
+  "pl": "wyrostki kolczyste kręgów Th3–Th6",
+  "ctx": "origin | splenius-colli-muscle"
+ },
+ "0d8e2e8e37": {
+  "en": "Manubrium and medial portion of the clavicle",
+  "pl": "rękojeść mostka i przyśrodkowa część obojczyka",
+  "ctx": "origin | sternocleidomastoid-muscle"
+ },
+ "cabf2e048b": {
+  "en": "Manubrium",
+  "pl": "rękojeść mostka",
+  "ctx": "origin | sternothyroid-muscle"
+ },
+ "cda326ed87": {
+  "en": "Styloid process (temporal)",
+  "pl": "wyrostek rylcowaty kości skroniowej",
+  "ctx": "origin | stylohyoid-muscle"
+ },
+ "a7fd8b9d14": {
+  "en": "First rib and cartilage",
+  "pl": "żebro I i jego chrząstka żebrowa",
+  "ctx": "origin | subclavius-muscle"
+ },
+ "30b6c70161": {
+  "en": "Zygomatic arch and maxillary process of zygomatic bone",
+  "pl": "łuk jarzmowy i wyrostek szczękowy kości jarzmowej",
+  "ctx": "origin | superficial-part-of-masseter"
+ },
+ "7465113ef9": {
+  "en": "Sphenoid bone at the orbital apex, medial to optic canal",
+  "pl": "kość klinowa w szczycie oczodołu, przyśrodkowo od kanału wzrokowego",
+  "ctx": "origin | superior-oblique-muscle"
+ },
+ "e50b134b48": {
+  "en": "Annulus of Zinn at the orbital apex",
+  "pl": "pierścień ścięgnisty wspólny (pierścień Zinna) w szczycie oczodołu",
+  "ctx": "origin | superior-rectus-muscle"
+ },
+ "b5aaaed55b": {
+  "en": "Lateral epicondyle of humerus, supinator crest of ulna, radial collateral ligament, annular ligament",
+  "pl": "nadkłykieć boczny kości ramiennej, grzebień mięśnia odwracacza kości łokciowej, więzadło poboczne promieniowe, więzadło obrączkowate kości promieniowej",
+  "ctx": "origin | supinator"
+ },
+ "2ad8c1b2e4": {
+  "en": "Temporal lines on the parietal bone of the skull and the superior temporal surface of the sphenoid bone",
+  "pl": "kresy skroniowe kości ciemieniowej oraz powierzchnia skroniowa kości klinowej",
+  "ctx": "origin | temporalis-muscle"
+ },
+ "3cf664928d": {
+  "en": "Inner surface of the side of the lesser pelvis",
+  "pl": "wewnętrzna powierzchnia bocznej ściany miednicy mniejszej",
+  "ctx": "origin | tendinous-arch-of-levator-ani"
+ },
+ "322dc387d6": {
+  "en": "Posterior aspect of the inferior angle of the scapula",
+  "pl": "tylna powierzchnia kąta dolnego łopatki",
+  "ctx": "origin | teres-major-muscle"
+ },
+ "966bb8420d": {
+  "en": "Lateral border of the scapula",
+  "pl": "brzeg boczny łopatki",
+  "ctx": "origin | teres-minor-muscle"
+ },
+ "559a56f039": {
+  "en": "Inner surface of the thyroid cartilage (anterior aspect)",
+  "pl": "wewnętrzna powierzchnia chrząstki tarczowatej (część przednia)",
+  "ctx": "origin | thyro-arytenoid-muscle"
+ },
+ "e89ec1cb53": {
+  "en": "From the upper 1/2 or 2/3 of the lateral surface of the tibia and the adjacent interosseous membrane",
+  "pl": "górna połowa lub dwie trzecie bocznej powierzchni kości piszczelowej i przyległa błona międzykostna",
+  "ctx": "origin | tibialis-anterior-muscle"
+ },
+ "3412b1efd6": {
+  "en": "Transverse head: anterior body of the third metacarpal\nOblique head: bases of the second and the third metacarpals and the adjacent trapezoid and capitate bones",
+  "pl": "głowa poprzeczna: dłoniowa powierzchnia trzonu III kości śródręcza\ngłowa skośna: podstawy II i III kości śródręcza oraz przyległe kości czworoboczna mniejsza i główkowata",
+  "ctx": "origin | transverse-head-of-adductor-pollicis"
+ },
+ "88d3fd83d4": {
+  "en": "Iliac crest, inguinal ligament, thoracolumbar fascia, and costal cartilages 7-12",
+  "pl": "grzebień biodrowy, więzadło pachwinowe, powięź piersiowo-lędźwiowa i chrząstki żebrowe VII–XII",
+  "ctx": "origin | transversus-abdominis-muscle"
+ },
+ "efe51d64da": {
+  "en": "Costal cartilages of last 3-4 true ribs, body of sternum and xiphoid process",
+  "pl": "chrząstki żebrowe 3–4 ostatnich żeber prawdziwych, trzon mostka i wyrostek mieczykowaty",
+  "ctx": "origin | transversus-thoracis-muscle"
+ },
+ "9a01c8f5e1": {
+  "en": "Long head: infraglenoid tubercle of scapula\nLateral head: above the radial groove\nMedial head: below the radial groove",
+  "pl": "głowa długa: guzek podpanewkowy łopatki\ngłowa boczna: powyżej bruzdy nerwu promieniowego\ngłowa przyśrodkowa: poniżej bruzdy nerwu promieniowego",
+  "ctx": "origin | triceps-brachii-muscle"
+ },
+ "de2eafe479": {
+  "en": "Distal femur (gastrocnemius), posterior tibia (soleus)",
+  "pl": "dalszy koniec kości udowej (mięsień brzuchaty łydki), tylna powierzchnia piszczeli (mięsień płaszczkowaty)",
+  "ctx": "origin | triceps-surae-muscle"
+ },
+ "cce5a9310c": {
+  "en": "Anterolateral femur",
+  "pl": "przednia i boczna powierzchnia trzonu kości udowej",
+  "ctx": "origin | vastus-intermedius-muscle"
+ },
+ "35334d2de0": {
+  "en": "Greater trochanter, intertrochanteric line, and linea aspera of the femur",
+  "pl": "krętarz większy, kresa międzykrętarzowa i kresa chropawa kości udowej",
+  "ctx": "origin | vastus-lateralis-muscle"
+ },
+ "4d7b3d9479": {
+  "en": "4th and 6th pharyngeal arch",
+  "pl": "4. i 6. łuk gardłowy",
+  "ctx": "precursor | arytenoid-cartilage"
+ },
+ "57d9792b59": {
+  "en": "First pharyngeal pouch",
+  "pl": "1. kieszonka gardłowa",
+  "ctx": "precursor | auditory-tube"
+ },
+ "ffb6447111": {
+  "en": "Fourth pharyngeal arch",
+  "pl": "4. łuk gardłowy",
+  "ctx": "precursor | epiglottis"
+ },
+ "f9a8016b0f": {
+  "en": "Second and third pharyngeal arch",
+  "pl": "2. i 3. łuk gardłowy",
+  "ctx": "precursor | hyoid-bone"
+ },
+ "b27a74911c": {
+  "en": "First branchial arch",
+  "pl": "1. łuk gardłowy (skrzelowy)",
+  "ctx": "precursor | malleus"
+ },
+ "fc1427ae59": {
+  "en": "First pharyngeal arch",
+  "pl": "1. łuk gardłowy",
+  "ctx": "precursor | mandible"
+ },
+ "76547d3321": {
+  "en": "Second branchial arch",
+  "pl": "2. łuk gardłowy (skrzelowy)",
+  "ctx": "precursor | stapes"
+ },
+ "efe34a9837": {
+  "en": "4th and 6th branchial arch",
+  "pl": "4. i 6. łuk gardłowy (skrzelowy)",
+  "ctx": "precursor | thyroid-cartilage"
+ },
+ "c8eb321c6e": {
+  "en": "Superior phrenic vein, inferior phrenic vein",
+  "pl": "żyły przeponowe górne i dolne",
+  "ctx": "vein | diaphragm"
+ },
+ "ed23979199": {
+  "en": "Inferior muscular branch of the ophthalmic vein",
+  "pl": "dolna gałąź mięśniowa żyły ocznej",
+  "ctx": "vein | inferior-rectus-muscle"
+ }
+}

@@ -9,19 +9,28 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "data:fetch": "node scripts/fetch-sources.mjs",
+    "data:build": "node scripts/build-anatomy-data.mjs",
+    "model:optimize": "node scripts/optimize-model.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^9.114.0",
     "@react-three/fiber": "^8.17.10",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "three": "^0.169.0"
+    "three": "^0.169.0",
+    "three-mesh-bvh": "^0.7.8"
   },
   "devDependencies": {
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/extensions": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
     "@tailwindcss/vite": "^4.0.0",
     "@vitejs/plugin-react": "^4.3.4",
+    "draco3dgltf": "^1.5.9",
     "gh-pages": "^6.2.0",
+    "meshoptimizer": "^0.22.0",
     "tailwindcss": "^4.0.0",
     "vite": "^6.0.5"
   }
